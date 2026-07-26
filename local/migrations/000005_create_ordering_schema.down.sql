@@ -1,0 +1,15 @@
+DROP INDEX IF EXISTS ordering.ordering_failed_idx;
+DROP INDEX IF EXISTS ordering.ordering_partition_unpublished_idx;
+DROP INDEX IF EXISTS ordering.ordering_unpublished_idx;
+DROP TABLE IF EXISTS ordering.outbox;
+DROP TABLE IF EXISTS ordering.inbox;
+DROP TABLE IF EXISTS ordering.snapshots;
+DROP INDEX IF EXISTS ordering.idx_events_caused_by;
+DROP INDEX IF EXISTS ordering.idx_events_correlation_id;
+DROP INDEX IF EXISTS ordering.idx_events_causation_id;
+DROP INDEX IF EXISTS ordering.idx_events_event_data_jsonb;
+DROP INDEX IF EXISTS ordering.idx_events_stream_name_occurred_at;
+DROP INDEX IF EXISTS ordering.idx_events_event_name_stream_id;
+DROP INDEX IF EXISTS ordering.idx_events_stream_version_event_name;
+DROP TABLE IF EXISTS ordering.events;
+DROP TABLE IF EXISTS ordering.orders;

@@ -1,0 +1,9 @@
+DROP INDEX IF EXISTS payments.payments_failed_idx;
+DROP INDEX IF EXISTS payments.payments_partition_unpublished_idx;
+DROP INDEX IF EXISTS payments.payments_unpublished_idx;
+DROP TABLE IF EXISTS payments.outbox;
+DROP TABLE IF EXISTS payments.inbox;
+DROP INDEX IF EXISTS payments.invoices_order_id_idx;
+DROP TABLE IF EXISTS payments.invoices;
+DROP INDEX IF EXISTS payments.idx_payments_user_id_updated_at;
+DROP TABLE IF EXISTS payments.payments;
