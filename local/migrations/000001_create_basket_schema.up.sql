@@ -110,4 +110,4 @@ CREATE TABLE baskets.baskets
 
 CREATE INDEX baskets_user_id_idx ON baskets.baskets (user_id);
 CREATE INDEX baskets_status_idx ON baskets.baskets (status);
-CREATE INDEX baskets_open_by_user_idx ON baskets.baskets (user_id) WHERE status = 'open';
+CREATE INDEX baskets_open_by_user_idx ON baskets.baskets (user_id) WHERE status = 'OPEN';
