@@ -100,7 +100,7 @@ CREATE TABLE baskets.baskets
 (
     id         TEXT NOT NULL,
     user_id    TEXT NOT NULL,
-    status     TEXT NOT NULL CHECK (status IN ('open', 'canceled', 'checked_out')),
+    status     TEXT NOT NULL,
     payment_id TEXT,
     items      JSONB NOT NULL DEFAULT '{}'::jsonb,
     created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
