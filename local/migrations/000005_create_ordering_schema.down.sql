@@ -12,4 +12,5 @@ DROP INDEX IF EXISTS ordering.idx_events_stream_name_occurred_at;
 DROP INDEX IF EXISTS ordering.idx_events_event_name_stream_id;
 DROP INDEX IF EXISTS ordering.idx_events_stream_version_event_name;
 DROP TABLE IF EXISTS ordering.events;
+DROP INDEX IF EXISTS ordering.idx_orders_user_id_updated_at;
 DROP TABLE IF EXISTS ordering.orders;

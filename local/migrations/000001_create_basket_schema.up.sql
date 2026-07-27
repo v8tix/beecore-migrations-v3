@@ -4,6 +4,7 @@ CREATE TABLE baskets.stores_cache
     name       TEXT NOT NULL,
     user_id    TEXT NOT NULL,
     address_id TEXT NOT NULL,
+    email      TEXT NOT NULL DEFAULT '',
     created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     PRIMARY KEY (id)

@@ -11,6 +11,11 @@ CREATE TABLE ordering.orders
     PRIMARY KEY (id)
 );
 
+-- Matches payments.idx_payments_user_id_updated_at / stores.idx_products_store_id_updated_at:
+-- OrderReadModelRepository.FindByUserID does WHERE user_id = $1 ORDER BY updated_at DESC,
+-- and was running unindexed until this was added.
+CREATE INDEX idx_orders_user_id_updated_at ON ordering.orders (user_id, updated_at DESC);
+
 CREATE TABLE ordering.events
 (
     stream_id      TEXT        NOT NULL,

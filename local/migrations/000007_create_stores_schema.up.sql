@@ -38,15 +38,20 @@ CREATE TABLE stores.products
     subtotal             DECIMAL(9,2),
     created_at           TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     updated_at           TIMESTAMPTZ NOT NULL DEFAULT NOW(),
-    name_lexemes         TSVECTOR GENERATED ALWAYS AS (to_tsvector('spanish', COALESCE(name, ''))) STORED,
-    description_lexemes  TSVECTOR GENERATED ALWAYS AS (to_tsvector('spanish', COALESCE(description, ''))) STORED,
+    -- Single combined tsvector: name weighted 'A' (1.0), description weighted 'B'
+    -- (0.4) via setweight, per Postgres's standard full-text ranking pattern.
+    -- One GIN index instead of two — cheaper to maintain, same relative
+    -- name-outranks-description ordering as the previous two-column design.
+    lexemes              TSVECTOR GENERATED ALWAYS AS (
+                             setweight(to_tsvector('spanish', COALESCE(name, '')), 'A') ||
+                             setweight(to_tsvector('spanish', COALESCE(description, '')), 'B')
+                         ) STORED,
     PRIMARY KEY (id)
 );
 
 CREATE INDEX store_products_idx ON stores.products (store_id);
 CREATE INDEX idx_products_store_id_updated_at ON stores.products (store_id, updated_at DESC);
-CREATE INDEX idx_stores_products_name_lexemes ON stores.products USING GIN (name_lexemes);
-CREATE INDEX idx_stores_products_description_lexemes ON stores.products USING GIN (description_lexemes);
+CREATE INDEX idx_stores_products_lexemes ON stores.products USING GIN (lexemes);
 
 CREATE TABLE stores.events
 (
