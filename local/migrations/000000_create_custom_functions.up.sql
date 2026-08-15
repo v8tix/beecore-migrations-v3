@@ -1,5 +1,5 @@
 -- Shared custom SQL functions used by later migrations' CREATE INDEX and
--- generated-column expressions (000001, 000002, 000005, 000006, 000007).
+-- generated-column expressions (000001, 000002, 000004, 000005, 000006).
 -- Database-level, not schema-scoped, so creating them once here — first,
 -- before anything that references them — is enough for every schema that
 -- follows. See README "Custom SQL Functions" for what each does.

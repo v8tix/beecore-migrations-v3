@@ -1,5 +1,6 @@
 # Load Make-safe local env vars
 -include local/.env
+-include local/prod.env
 
 # Export loaded vars to shell commands run by make recipes
 export
@@ -88,3 +89,74 @@ migrations/local/grant-privileges:
 	@chmod +x local/scripts/local/grant_privileges.sh
 	@./local/scripts/local/grant_privileges.sh
 	@echo "Privileges granted"
+
+# ==================================================================================== #
+# PRODUCTION MIGRATIONS
+# ==================================================================================== #
+#
+# Requires local/scripts/prod/connect_tunnel.sh running first — production
+# Postgres has no direct/public route, only reachable via an SSH+kubectl
+# port-forward tunnel to localhost:5433. Password is never stored in this
+# repo: each target fetches it live over SSH via
+# local/scripts/prod/get_password.sh and builds the DSN inline.
+
+## migrations/prod/check: verify production migration configuration is set
+.PHONY: migrations/prod/check
+migrations/prod/check:
+	@if [ -z "${MIGRATIONS_PATH}" ]; then \
+		echo "Error: MIGRATIONS_PATH is not set (expected in local/prod.env)"; \
+		exit 1; \
+	fi
+	@if [ -z "${PROD_DB_USER}" ] || [ -z "${PROD_DB_HOST}" ] || [ -z "${PROD_DB_PORT}" ] || [ -z "${PROD_DB}" ]; then \
+		echo "Error: PROD_DB_* vars are not set (expected in local/prod.env)"; \
+		exit 1; \
+	fi
+
+## migrations/prod/debug: show production migration configuration (no password)
+.PHONY: migrations/prod/debug
+migrations/prod/debug:
+	@echo "=== Production Migration Configuration ==="
+	@echo "MIGRATIONS_PATH: ${MIGRATIONS_PATH}"
+	@echo "PROD_DB_USER: ${PROD_DB_USER}"
+	@echo "PROD_DB_HOST: ${PROD_DB_HOST}"
+	@echo "PROD_DB_PORT: ${PROD_DB_PORT}"
+	@echo "PROD_DB: ${PROD_DB}"
+	@echo ""
+	@echo "=== Connection String ==="
+	@echo "PROD_DB_DSN: postgres://${PROD_DB_USER}:****@${PROD_DB_HOST}:${PROD_DB_PORT}/${PROD_DB}?sslmode=disable"
+	@echo ""
+	@echo "Reminder: run local/scripts/prod/connect_tunnel.sh first if the tunnel isn't up."
+
+## migrations/prod/up: apply all migrations to PRODUCTION PostgreSQL
+.PHONY: migrations/prod/up
+migrations/prod/up: migrations/prod/check
+	@echo "Running migrations on PRODUCTION PostgreSQL..."
+	@echo "Database: ${PROD_DB_HOST}:${PROD_DB_PORT}/${PROD_DB}"
+	@PROD_DB_PASSWD=$$(./local/scripts/prod/get_password.sh) && \
+	migrate -path="${MIGRATIONS_PATH}" -database="postgres://${PROD_DB_USER}:$${PROD_DB_PASSWD}@${PROD_DB_HOST}:${PROD_DB_PORT}/${PROD_DB}?sslmode=disable" up
+	@echo "Production migrations completed"
+
+## migrations/prod/down: revert all migrations on PRODUCTION PostgreSQL
+.PHONY: migrations/prod/down
+migrations/prod/down: migrations/prod/check
+	@echo "Reverting migrations on PRODUCTION PostgreSQL..."
+	@PROD_DB_PASSWD=$$(./local/scripts/prod/get_password.sh) && \
+	migrate -path="${MIGRATIONS_PATH}" -database="postgres://${PROD_DB_USER}:$${PROD_DB_PASSWD}@${PROD_DB_HOST}:${PROD_DB_PORT}/${PROD_DB}?sslmode=disable" down
+
+## migrations/prod/goto: migrate to specific version on PRODUCTION PostgreSQL
+.PHONY: migrations/prod/goto
+migrations/prod/goto: migrations/prod/check
+	@PROD_DB_PASSWD=$$(./local/scripts/prod/get_password.sh) && \
+	migrate -path="${MIGRATIONS_PATH}" -database="postgres://${PROD_DB_USER}:$${PROD_DB_PASSWD}@${PROD_DB_HOST}:${PROD_DB_PORT}/${PROD_DB}?sslmode=disable" goto "${GOTO}"
+
+## migrations/prod/force: force migration version on PRODUCTION PostgreSQL
+.PHONY: migrations/prod/force
+migrations/prod/force: migrations/prod/check
+	@PROD_DB_PASSWD=$$(./local/scripts/prod/get_password.sh) && \
+	migrate -path="${MIGRATIONS_PATH}" -database="postgres://${PROD_DB_USER}:$${PROD_DB_PASSWD}@${PROD_DB_HOST}:${PROD_DB_PORT}/${PROD_DB}?sslmode=disable" force "${GOTO}"
+
+## migrations/prod/version: show current migration version on PRODUCTION PostgreSQL
+.PHONY: migrations/prod/version
+migrations/prod/version: migrations/prod/check
+	@PROD_DB_PASSWD=$$(./local/scripts/prod/get_password.sh) && \
+	migrate -path="${MIGRATIONS_PATH}" -database="postgres://${PROD_DB_USER}:$${PROD_DB_PASSWD}@${PROD_DB_HOST}:${PROD_DB_PORT}/${PROD_DB}?sslmode=disable" version

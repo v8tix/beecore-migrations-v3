@@ -4,6 +4,7 @@ CREATE TABLE ordering.orders
     user_id     TEXT NOT NULL,
     payment_id  TEXT NOT NULL,
     basket_id   TEXT NOT NULL,
+    store_id    TEXT NOT NULL,
     items       BYTEA NOT NULL,
     status      TEXT NOT NULL,
     created_at  TIMESTAMPTZ NOT NULL DEFAULT NOW(),
@@ -15,6 +16,12 @@ CREATE TABLE ordering.orders
 -- OrderReadModelRepository.FindByUserID does WHERE user_id = $1 ORDER BY updated_at DESC,
 -- and was running unindexed until this was added.
 CREATE INDEX idx_orders_user_id_updated_at ON ordering.orders (user_id, updated_at DESC);
+
+-- Natural idempotency key: a checked-out basket produces at most one order per
+-- store, ever. CreateOrder's Upsert relies on this to detect retried/duplicate
+-- requests (e.g. a client retrying a slow request) via a unique-violation
+-- instead of creating a second order for the same basket+store.
+CREATE UNIQUE INDEX orders_basket_store_uidx ON ordering.orders (basket_id, store_id);
 
 CREATE TABLE ordering.events
 (
