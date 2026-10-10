@@ -212,6 +212,17 @@ Always set `updated_at` explicitly on UPDATE:
 UPDATE users.users SET email = 'new@email.com', updated_at = NOW() WHERE id = '123';
 ```
 
+## Branching strategy
+
+* `main` always holds released, working migrations.
+* `develop` is the integration branch where new migrations land first.
+* Both branches are protected: nobody can push to them directly, force-push them or delete them. Every change
+  arrives through a pull request, which must pass CI (when configured) with all conversations resolved.
+* Start a new migration from `develop` (`git switch -c feature/<name> develop`), open a pull request into
+  `develop`, and merge it once it's ready.
+* To release, open a pull request from `develop` into `main`. Use **Create a merge commit** (not squash or
+  rebase) so the two branches keep a common history.
+
 ---
 
 **PostgreSQL 18** | **golang-migrate:** install with `make install`
