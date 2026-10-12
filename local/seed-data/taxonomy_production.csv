@@ -1,0 +1,1101 @@
+id,type,country,category_id,name,parent_id,code,default,level,is_leaf,path
+1,RETAIL,CO,1,Category Tree - CO,,category-tree-co,False,1,False,Category Tree - CO
+2,RETAIL,CO,2,Bebidas,1,bebidas,False,1,False,Category Tree - CO / Bebidas
+3,RETAIL,CO,3,Cigarrillos,1,cigarrillos,False,1,False,Category Tree - CO / Cigarrillos
+6,RETAIL,CO,6,Despensa y productos secos,1,despensa-y-productos-secos,False,1,False,Category Tree - CO / Despensa y productos secos
+7,RETAIL,CO,7,Cuidado del bebé,1,cuidado-del-bebé,False,1,False,Category Tree - CO / Cuidado del bebé
+8,RETAIL,CO,8,Cuidado personal,1,cuidado-personal,False,1,False,Category Tree - CO / Cuidado personal
+9,RETAIL,CO,9,Farmacia,1,farmacia,False,1,False,Category Tree - CO / Farmacia
+10,RETAIL,CO,10,Cuidado y limpieza del hogar,1,cuidado-y-limpieza-del-hogar,False,1,False,Category Tree - CO / Cuidado y limpieza del hogar
+11,RETAIL,CO,11,Mascotas,1,mascotas,False,1,False,Category Tree - CO / Mascotas
+12,RETAIL,CO,12,Bebés y niños,1,bebés-y-niños,False,1,False,Category Tree - CO / Bebés y niños
+13,RETAIL,CO,13,Auto partes,1,auto-partes,False,1,False,Category Tree - CO / Auto partes
+14,RETAIL,CO,14,Moda,1,moda,False,1,False,Category Tree - CO / Moda
+15,RETAIL,CO,15,Deportes y fitness,1,deportes-y-fitness,False,1,False,Category Tree - CO / Deportes y fitness
+16,RETAIL,CO,16,"Libros, Cómics y Revistas",1,libros-cómics-y-revistas,False,1,False,"Category Tree - CO / Libros, Cómics y Revistas"
+17,RETAIL,CO,17,Música e instrumentos,1,música-e-instrumentos,False,1,False,Category Tree - CO / Música e instrumentos
+18,RETAIL,CO,18,Decoración y hogar,1,decoración-y-hogar,False,1,False,Category Tree - CO / Decoración y hogar
+19,RETAIL,CO,19,Ferretería y jardín,1,ferretería-y-jardín,False,1,False,Category Tree - CO / Ferretería y jardín
+20,RETAIL,CO,20,Fiestas y piñatas,1,fiestas-y-piñatas,False,1,False,Category Tree - CO / Fiestas y piñatas
+21,RETAIL,CO,21,Flores y Plantas,1,flores-y-plantas,False,1,False,Category Tree - CO / Flores y Plantas
+22,RETAIL,CO,22,Papelería y oficina,1,papelería-y-oficina,False,1,False,Category Tree - CO / Papelería y oficina
+24,RETAIL,CO,24,Tecnología,1,tecnología,False,1,False,Category Tree - CO / Tecnología
+641,RETAIL,CO,641,Otros,1,otros,False,1,False,Category Tree - CO / Otros
+1062,RETAIL,CO,1062,Arte y Manualidades,1,arte-y-manualidades,False,1,False,Category Tree - CO / Arte y Manualidades
+1356,RETAIL,CO,1359,Juguetería,1,juguetería,False,1,False,Category Tree - CO / Juguetería
+1433,RETAIL,CO,1519,Maquillaje,1,maquillaje,False,1,False,Category Tree - CO / Maquillaje
+25,RETAIL,CO,25,Aguas,2,aguas,False,2,False,Category Tree - CO / Bebidas / Aguas
+26,RETAIL,CO,26,Bebidas de cereal,2,bebidas-de-cereal,False,2,False,Category Tree - CO / Bebidas / Bebidas de cereal
+27,RETAIL,CO,27,Cafés y tés listos para beber,2,cafés-y-tés-listos-para-beber,False,2,False,Category Tree - CO / Bebidas / Cafés y tés listos para beber
+28,RETAIL,CO,28,Cervezas y sidras,2,cervezas-y-sidras,False,2,False,Category Tree - CO / Bebidas / Cervezas y sidras
+31,RETAIL,CO,31,Energéticas e isotónicas,2,energéticas-e-isotónicas,False,2,False,Category Tree - CO / Bebidas / Energéticas e isotónicas
+32,RETAIL,CO,32,Gaseosas,2,gaseosas,False,2,False,Category Tree - CO / Bebidas / Gaseosas
+33,RETAIL,CO,33,Jugos y néctares,2,jugos-y-néctares,False,2,False,Category Tree - CO / Bebidas / Jugos y néctares
+34,RETAIL,CO,34,Licores y aperitivos,2,licores-y-aperitivos,False,2,False,Category Tree - CO / Bebidas / Licores y aperitivos
+35,RETAIL,CO,35,Refrescos en polvo y jarabe,2,refrescos-en-polvo-y-jarabe,False,2,False,Category Tree - CO / Bebidas / Refrescos en polvo y jarabe
+36,RETAIL,CO,36,Vinos,2,vinos,False,2,False,Category Tree - CO / Bebidas / Vinos
+74,RETAIL,CO,74,Cigarrillos,3,cigarrillos,False,2,False,Category Tree - CO / Cigarrillos / Cigarrillos
+75,RETAIL,CO,75,Vaporizadores y dispositivos,3,vaporizadores-y-dispositivos,False,2,False,Category Tree - CO / Cigarrillos / Vaporizadores y dispositivos
+145,RETAIL,CO,145,Aceites y vinagres,6,aceites-y-vinagres,False,2,False,Category Tree - CO / Despensa y productos secos / Aceites y vinagres
+146,RETAIL,CO,146,Snacks y confitería,6,snacks-y-confitería,False,2,False,Category Tree - CO / Despensa y productos secos / Snacks y confitería
+147,RETAIL,CO,147,Anchetas,6,anchetas,False,2,False,Category Tree - CO / Despensa y productos secos / Anchetas
+148,RETAIL,CO,148,"Arroz, granos y pastas",6,arroz-granos-y-pastas,False,2,False,"Category Tree - CO / Despensa y productos secos / Arroz, granos y pastas"
+149,RETAIL,CO,149,Azúcar y endulzantes,6,azúcar-y-endulzantes,False,2,False,Category Tree - CO / Despensa y productos secos / Azúcar y endulzantes
+150,RETAIL,CO,150,"Café, infusiones y modificadores de leche",6,café-infusiones-y-modificadores-de-leche,False,2,False,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche"
+151,RETAIL,CO,151,Caldos y sopas,6,caldos-y-sopas,False,2,False,Category Tree - CO / Despensa y productos secos / Caldos y sopas
+152,RETAIL,CO,152,"Cereales, avenas y granola",6,cereales-avenas-y-granola,False,2,False,"Category Tree - CO / Despensa y productos secos / Cereales, avenas y granola"
+153,RETAIL,CO,153,Condimentos y salsas,6,condimentos-y-salsas,False,2,False,Category Tree - CO / Despensa y productos secos / Condimentos y salsas
+154,RETAIL,CO,154,Conservas,6,conservas,False,2,False,Category Tree - CO / Despensa y productos secos / Conservas
+155,RETAIL,CO,155,Harina y mezclas para preparar,6,harina-y-mezclas-para-preparar,False,2,False,Category Tree - CO / Despensa y productos secos / Harina y mezclas para preparar
+156,RETAIL,CO,156,Mermeladas y pastas para untar,6,mermeladas-y-pastas-para-untar,False,2,False,Category Tree - CO / Despensa y productos secos / Mermeladas y pastas para untar
+158,RETAIL,CO,158,Panadería y pastelería,6,panadería-y-pastelería,False,2,False,Category Tree - CO / Despensa y productos secos / Panadería y pastelería
+159,RETAIL,CO,159,Repostería,6,repostería,False,2,False,Category Tree - CO / Despensa y productos secos / Repostería
+224,RETAIL,CO,224,Fórmulas y alimentos,7,fórmulas-y-alimentos,False,2,False,Category Tree - CO / Cuidado del bebé / Fórmulas y alimentos
+225,RETAIL,CO,225,Higiene y cuidado,7,higiene-y-cuidado,False,2,False,Category Tree - CO / Cuidado del bebé / Higiene y cuidado
+226,RETAIL,CO,226,Lactancia y accesorios,7,lactancia-y-accesorios,False,2,False,Category Tree - CO / Cuidado del bebé / Lactancia y accesorios
+227,RETAIL,CO,227,Pañales y toallitas,7,pañales-y-toallitas,False,2,False,Category Tree - CO / Cuidado del bebé / Pañales y toallitas
+247,RETAIL,CO,247,Accesorios de belleza,8,accesorios-de-belleza,False,2,False,Category Tree - CO / Cuidado personal / Accesorios de belleza
+249,RETAIL,CO,249,Cuidado de los pies,8,cuidado-de-los-pies,False,2,False,Category Tree - CO / Cuidado personal / Cuidado de los pies
+250,RETAIL,CO,250,Cuidado del cabello,8,cuidado-del-cabello,False,2,False,Category Tree - CO / Cuidado personal / Cuidado del cabello
+251,RETAIL,CO,251,Cuidado oral,8,cuidado-oral,False,2,False,Category Tree - CO / Cuidado personal / Cuidado oral
+252,RETAIL,CO,252,Depilación y afeitado,8,depilación-y-afeitado,False,2,False,Category Tree - CO / Cuidado personal / Depilación y afeitado
+254,RETAIL,CO,254,Desodorantes,8,desodorantes,False,2,False,Category Tree - CO / Cuidado personal / Desodorantes
+255,RETAIL,CO,255,Electro belleza,8,electro-belleza,False,2,False,Category Tree - CO / Cuidado personal / Electro belleza
+256,RETAIL,CO,256,Fragancias,8,fragancias,False,2,False,Category Tree - CO / Cuidado personal / Fragancias
+258,RETAIL,CO,258,Protección femenina,8,protección-femenina,False,2,False,Category Tree - CO / Cuidado personal / Protección femenina
+316,RETAIL,CO,316,Alergias,9,alergias,False,2,False,Category Tree - CO / Farmacia / Alergias
+317,RETAIL,CO,317,Alivio del dolor,9,alivio-del-dolor,False,2,False,Category Tree - CO / Farmacia / Alivio del dolor
+318,RETAIL,CO,318,Botiquín y primeros auxilios,9,botiquín-y-primeros-auxilios,False,2,False,Category Tree - CO / Farmacia / Botiquín y primeros auxilios
+319,RETAIL,CO,319,Cuidado dermatológico,9,cuidado-dermatológico,False,2,False,Category Tree - CO / Farmacia / Cuidado dermatológico
+320,RETAIL,CO,320,Equipo y material médico,9,equipo-y-material-médico,False,2,False,Category Tree - CO / Farmacia / Equipo y material médico
+321,RETAIL,CO,321,Gripa y tos,9,gripa-y-tos,False,2,False,Category Tree - CO / Farmacia / Gripa y tos
+322,RETAIL,CO,322,Otros medicamentos,9,otros-medicamentos,False,2,False,Category Tree - CO / Farmacia / Otros medicamentos
+323,RETAIL,CO,323,Productos naturales,9,productos-naturales,False,2,False,Category Tree - CO / Farmacia / Productos naturales
+324,RETAIL,CO,324,Protección incontinencia,9,protección-incontinencia,False,2,False,Category Tree - CO / Farmacia / Protección incontinencia
+325,RETAIL,CO,325,Salud digestiva,9,salud-digestiva,False,2,False,Category Tree - CO / Farmacia / Salud digestiva
+326,RETAIL,CO,326,Salud nutricional,9,salud-nutricional,False,2,False,Category Tree - CO / Farmacia / Salud nutricional
+327,RETAIL,CO,327,Salud sexual,9,salud-sexual,False,2,False,Category Tree - CO / Farmacia / Salud sexual
+328,RETAIL,CO,328,Salud visual,9,salud-visual,False,2,False,Category Tree - CO / Farmacia / Salud visual
+342,RETAIL,CO,342,Mundo COVID,9,mundo-covid,False,2,False,Category Tree - CO / Farmacia / Mundo COVID
+396,RETAIL,CO,396,Ambientadores y velas,10,ambientadores-y-velas,False,2,False,Category Tree - CO / Cuidado y limpieza del hogar / Ambientadores y velas
+397,RETAIL,CO,397,Articulos de papel,10,articulos-de-papel,False,2,False,Category Tree - CO / Cuidado y limpieza del hogar / Articulos de papel
+398,RETAIL,CO,398,Control de plagas,10,control-de-plagas,False,2,False,Category Tree - CO / Cuidado y limpieza del hogar / Control de plagas
+399,RETAIL,CO,399,Cuidado de la ropa,10,cuidado-de-la-ropa,False,2,False,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa
+400,RETAIL,CO,400,Cuidado de los zapatos,10,cuidado-de-los-zapatos,False,2,False,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de los zapatos
+401,RETAIL,CO,401,Limpieza,10,limpieza,False,2,False,Category Tree - CO / Cuidado y limpieza del hogar / Limpieza
+402,RETAIL,CO,402,Desechables,10,desechables,False,2,False,Category Tree - CO / Cuidado y limpieza del hogar / Desechables
+444,RETAIL,CO,444,Accesorios mascotas,11,accesorios-mascotas,False,2,False,Category Tree - CO / Mascotas / Accesorios mascotas
+445,RETAIL,CO,445,Alimento para mascotas,11,alimento-para-mascotas,False,2,False,Category Tree - CO / Mascotas / Alimento para mascotas
+446,RETAIL,CO,446,Aseo para mascotas,11,aseo-para-mascotas,False,2,False,Category Tree - CO / Mascotas / Aseo para mascotas
+447,RETAIL,CO,447,Medicamentos,11,medicamentos,False,2,False,Category Tree - CO / Mascotas / Medicamentos
+461,RETAIL,CO,461,Accesorios para alimentación,12,accesorios-para-alimentación,False,2,False,Category Tree - CO / Bebés y niños / Accesorios para alimentación
+464,RETAIL,CO,464,Seguridad infantil,12,seguridad-infantil,False,2,False,Category Tree - CO / Bebés y niños / Seguridad infantil
+482,RETAIL,CO,482,Accesorios para vehículos,13,accesorios-para-vehículos,False,2,False,Category Tree - CO / Auto partes / Accesorios para vehículos
+484,RETAIL,CO,484,"Liquidos, Aditivos y Aceites",13,liquidos-aditivos-y-aceites,False,2,False,"Category Tree - CO / Auto partes / Liquidos, Aditivos y Aceites"
+485,RETAIL,CO,485,Llantas y rines,13,llantas-y-rines,False,2,False,Category Tree - CO / Auto partes / Llantas y rines
+486,RETAIL,CO,486,Productos de limpieza,13,productos-de-limpieza,False,2,False,Category Tree - CO / Auto partes / Productos de limpieza
+522,RETAIL,CO,522,Otros Deportes,15,otros-deportes,False,2,False,Category Tree - CO / Deportes y fitness / Otros Deportes
+523,RETAIL,CO,523,Camping Y Outdoor,15,camping-y-outdoor,False,2,False,Category Tree - CO / Deportes y fitness / Camping Y Outdoor
+525,RETAIL,CO,525,Máquinas Para Hacer Ejercicio,15,máquinas-para-hacer-ejercicio,False,2,False,Category Tree - CO / Deportes y fitness / Máquinas Para Hacer Ejercicio
+533,RETAIL,CO,533,Literatura,16,literatura,False,2,False,"Category Tree - CO / Libros, Cómics y Revistas / Literatura"
+535,RETAIL,CO,535,Periódicos y Revistas,16,periódicos-y-revistas,False,2,False,"Category Tree - CO / Libros, Cómics y Revistas / Periódicos y Revistas"
+544,RETAIL,CO,544,Consolas Dj,17,consolas-dj,False,2,False,Category Tree - CO / Música e instrumentos / Consolas Dj
+545,RETAIL,CO,545,Cuerdas,17,cuerdas,False,2,False,Category Tree - CO / Música e instrumentos / Cuerdas
+547,RETAIL,CO,547,Teclados,17,teclados,False,2,False,Category Tree - CO / Música e instrumentos / Teclados
+548,RETAIL,CO,548,Vientos,17,vientos,False,2,False,Category Tree - CO / Música e instrumentos / Vientos
+554,RETAIL,CO,554,Baños,18,baños,False,2,False,Category Tree - CO / Decoración y hogar / Baños
+556,RETAIL,CO,556,Cocina,18,cocina,False,2,False,Category Tree - CO / Decoración y hogar / Cocina
+557,RETAIL,CO,557,Decoración del hogar,18,decoración-del-hogar,False,2,False,Category Tree - CO / Decoración y hogar / Decoración del hogar
+558,RETAIL,CO,558,Dormitorio,18,dormitorio,False,2,False,Category Tree - CO / Decoración y hogar / Dormitorio
+559,RETAIL,CO,559,Electromenor,18,electromenor,False,2,False,Category Tree - CO / Decoración y hogar / Electromenor
+561,RETAIL,CO,561,Muebles,18,muebles,False,2,False,Category Tree - CO / Decoración y hogar / Muebles
+562,RETAIL,CO,562,Organizadores,18,organizadores,False,2,False,Category Tree - CO / Decoración y hogar / Organizadores
+572,RETAIL,CO,572,Aire Libre,19,aire-libre,False,2,False,Category Tree - CO / Ferretería y jardín / Aire Libre
+574,RETAIL,CO,574,Ferretería,19,ferretería,False,2,False,Category Tree - CO / Ferretería y jardín / Ferretería
+575,RETAIL,CO,575,Iluminación y eléctricos,19,iluminación-y-eléctricos,False,2,False,Category Tree - CO / Ferretería y jardín / Iluminación y eléctricos
+576,RETAIL,CO,576,Jardinería,19,jardinería,False,2,False,Category Tree - CO / Ferretería y jardín / Jardinería
+582,RETAIL,CO,582,Decoración para fiestas,20,decoración-para-fiestas,False,2,False,Category Tree - CO / Fiestas y piñatas / Decoración para fiestas
+583,RETAIL,CO,583,Disfraces,20,disfraces,False,2,False,Category Tree - CO / Fiestas y piñatas / Disfraces
+584,RETAIL,CO,584,Empaques y Tarjetas,20,empaques-y-tarjetas,False,2,False,Category Tree - CO / Fiestas y piñatas / Empaques y Tarjetas
+596,RETAIL,CO,596,Impresión e Insumos,24,impresión-e-insumos,False,2,False,Category Tree - CO / Tecnología / Impresión e Insumos
+597,RETAIL,CO,597,Cuadernos y Apuntes,22,cuadernos-y-apuntes,False,2,False,Category Tree - CO / Papelería y oficina / Cuadernos y Apuntes
+598,RETAIL,CO,598,Pintura,1062,pintura,False,2,False,Category Tree - CO / Arte y Manualidades / Pintura
+599,RETAIL,CO,599,Suministros de oficina,22,suministros-de-oficina,False,2,False,Category Tree - CO / Papelería y oficina / Suministros de oficina
+602,RETAIL,CO,602,Útiles escolares,22,útiles-escolares,False,2,False,Category Tree - CO / Papelería y oficina / Útiles escolares
+612,RETAIL,CO,612,Audio y sonido,24,audio-y-sonido,False,2,False,Category Tree - CO / Tecnología / Audio y sonido
+613,RETAIL,CO,613,Cámaras,24,cámaras,False,2,False,Category Tree - CO / Tecnología / Cámaras
+614,RETAIL,CO,614,Computadores,24,computadores,False,2,False,Category Tree - CO / Tecnología / Computadores
+615,RETAIL,CO,615,Gaming,24,gaming,False,2,False,Category Tree - CO / Tecnología / Gaming
+616,RETAIL,CO,616,Dispositivos De Almacenamiento,24,dispositivos-de-almacenamiento,False,2,False,Category Tree - CO / Tecnología / Dispositivos De Almacenamiento
+617,RETAIL,CO,617,Celulares y Telefonía,24,celulares-y-telefonía,False,2,False,Category Tree - CO / Tecnología / Celulares y Telefonía
+618,RETAIL,CO,618,Televisión y video,24,televisión-y-video,False,2,False,Category Tree - CO / Tecnología / Televisión y video
+642,RETAIL,CO,642,Otros,641,otros,False,2,False,Category Tree - CO / Otros / Otros
+644,RETAIL,CO,644,Habanos,3,habanos,False,2,False,Category Tree - CO / Cigarrillos / Habanos
+649,RETAIL,CO,649,Artículos para el baño,12,artículos-para-el-baño,False,2,False,Category Tree - CO / Bebés y niños / Artículos para el baño
+650,RETAIL,CO,650,Paseo con el bebé,12,paseo-con-el-bebé,False,2,False,Category Tree - CO / Bebés y niños / Paseo con el bebé
+675,RETAIL,CO,675,Repuestos Carros,13,repuestos-carros,False,2,False,Category Tree - CO / Auto partes / Repuestos Carros
+695,RETAIL,CO,695,Seguridad,18,seguridad,False,2,False,Category Tree - CO / Decoración y hogar / Seguridad
+696,RETAIL,CO,696,Textiles de hogar y cortinas,18,textiles-de-hogar-y-cortinas,False,2,False,Category Tree - CO / Decoración y hogar / Textiles de hogar y cortinas
+806,RETAIL,CO,806,Arreglos y Flores,21,arreglos-y-flores,False,2,False,Category Tree - CO / Flores y Plantas / Arreglos y Flores
+808,RETAIL,CO,808,Plantas,21,plantas,False,2,False,Category Tree - CO / Flores y Plantas / Plantas
+816,RETAIL,CO,816,Joyería,14,joyería,False,2,False,Category Tree - CO / Moda / Joyería
+820,RETAIL,CO,820,Tecnología para mascotas,11,tecnología-para-mascotas,False,2,False,Category Tree - CO / Mascotas / Tecnología para mascotas
+821,RETAIL,CO,821,Limpieza y Cuidado,11,limpieza-y-cuidado,False,2,False,Category Tree - CO / Mascotas / Limpieza y Cuidado
+835,RETAIL,CO,835,Ready to Drink,2,ready-to-drink,False,2,False,Category Tree - CO / Bebidas / Ready to Drink
+838,RETAIL,CO,838,Bolsos y maletas,14,bolsos-y-maletas,False,2,False,Category Tree - CO / Moda / Bolsos y maletas
+844,RETAIL,CO,844,Ropa interior,14,ropa-interior,False,2,False,Category Tree - CO / Moda / Ropa interior
+860,RETAIL,CO,860,Medicamentos para la Diabetes,9,medicamentos-para-la-diabetes,False,2,False,Category Tree - CO / Farmacia / Medicamentos para la Diabetes
+888,RETAIL,CO,888,Accesorios de moda,14,accesorios-de-moda,False,2,False,Category Tree - CO / Moda / Accesorios de moda
+890,RETAIL,CO,890,Bebés,14,bebés,False,2,False,Category Tree - CO / Moda / Bebés
+891,RETAIL,CO,891,Calzados,14,calzados,False,2,False,Category Tree - CO / Moda / Calzados
+893,RETAIL,CO,893,Ropa,14,ropa,False,2,False,Category Tree - CO / Moda / Ropa
+927,RETAIL,CO,927,Accesorios musicales,17,accesorios-musicales,False,2,False,Category Tree - CO / Música e instrumentos / Accesorios musicales
+928,RETAIL,CO,928,Percusion,17,percusion,False,2,False,Category Tree - CO / Música e instrumentos / Percusion
+942,RETAIL,CO,942,Papelería,22,papelería,False,2,False,Category Tree - CO / Papelería y oficina / Papelería
+1063,RETAIL,CO,1063,"Bordado, tejido y costura",1062,bordado-tejido-y-costura,False,2,False,"Category Tree - CO / Arte y Manualidades / Bordado, tejido y costura"
+1065,RETAIL,CO,1065,Bisuteria,1062,bisuteria,False,2,False,Category Tree - CO / Arte y Manualidades / Bisuteria
+1078,RETAIL,CO,1078,Accesorios de cigarrillos,3,accesorios-de-cigarrillos,False,2,False,Category Tree - CO / Cigarrillos / Accesorios de cigarrillos
+1130,RETAIL,CO,1130,Drones,24,drones,False,2,False,Category Tree - CO / Tecnología / Drones
+1131,RETAIL,CO,1131,Accesorios de Tecnología,24,accesorios-de-tecnología,False,2,False,Category Tree - CO / Tecnología / Accesorios de Tecnología
+1133,RETAIL,CO,1133,"Cargadores, Cables y Pilas",24,cargadores-cables-y-pilas,False,2,False,"Category Tree - CO / Tecnología / Cargadores, Cables y Pilas"
+1135,RETAIL,CO,1135,Música,17,música,False,2,False,Category Tree - CO / Música e instrumentos / Música
+1156,RETAIL,CO,1157,Soportes y Tripodes,24,soportes-y-tripodes,False,2,False,Category Tree - CO / Tecnología / Soportes y Tripodes
+1185,RETAIL,CO,1186,Ropa deportiva,14,ropa-deportiva,False,2,False,Category Tree - CO / Moda / Ropa deportiva
+1187,RETAIL,CO,1188,Trajes de baño,14,trajes-de-baño,False,2,False,Category Tree - CO / Moda / Trajes de baño
+1228,RETAIL,CO,1229,Decoración Navideña,18,decoración-navideña,False,2,False,Category Tree - CO / Decoración y hogar / Decoración Navideña
+1237,RETAIL,CO,1238,Linea Blanca,18,linea-blanca,False,2,False,Category Tree - CO / Decoración y hogar / Linea Blanca
+1239,RETAIL,CO,1240,Climatización,18,climatización,False,2,False,Category Tree - CO / Decoración y hogar / Climatización
+1256,RETAIL,CO,1257,Dormitorio del Bebé,12,dormitorio-del-bebé,False,2,False,Category Tree - CO / Bebés y niños / Dormitorio del Bebé
+1287,RETAIL,CO,1292,Ciclismo,15,ciclismo,False,2,False,Category Tree - CO / Deportes y fitness / Ciclismo
+1293,RETAIL,CO,1293,Boxeo y artes marciales,15,boxeo-y-artes-marciales,False,2,False,Category Tree - CO / Deportes y fitness / Boxeo y artes marciales
+1294,RETAIL,CO,1291,Equipo de entrenamiento,15,equipo-de-entrenamiento,False,2,False,Category Tree - CO / Deportes y fitness / Equipo de entrenamiento
+1295,RETAIL,CO,1298,Fútbol,15,fútbol,False,2,False,Category Tree - CO / Deportes y fitness / Fútbol
+1296,RETAIL,CO,1290,Gimnasia Pasiva,15,gimnasia-pasiva,False,2,False,Category Tree - CO / Deportes y fitness / Gimnasia Pasiva
+1297,RETAIL,CO,1289,"Gimnasio, Yoga y Pilates",15,gimnasio-yoga-y-pilates,False,2,False,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates"
+1298,RETAIL,CO,1296,Natación y Náuticos,15,natación-y-náuticos,False,2,False,Category Tree - CO / Deportes y fitness / Natación y Náuticos
+1299,RETAIL,CO,1294,Patinaje,15,patinaje,False,2,False,Category Tree - CO / Deportes y fitness / Patinaje
+1300,RETAIL,CO,1295,Tenis de campo,15,tenis-de-campo,False,2,False,Category Tree - CO / Deportes y fitness / Tenis de campo
+1301,RETAIL,CO,1297,Voleibol,15,voleibol,False,2,False,Category Tree - CO / Deportes y fitness / Voleibol
+1357,RETAIL,CO,1441,Ropa bebés y niños,12,ropa-bebés-y-niños,False,2,False,Category Tree - CO / Bebés y niños / Ropa bebés y niños
+1360,RETAIL,CO,1360,Juegos al aire libre,1356,juegos-al-aire-libre,False,2,False,Category Tree - CO / Juguetería / Juegos al aire libre
+1361,RETAIL,CO,1361,Juegos de Mesa,1356,juegos-de-mesa,False,2,False,Category Tree - CO / Juguetería / Juegos de Mesa
+1362,RETAIL,CO,1362,Juegos Musicales y de rol,1356,juegos-musicales-y-de-rol,False,2,False,Category Tree - CO / Juguetería / Juegos Musicales y de rol
+1363,RETAIL,CO,1363,Juguetes para Bebé,1356,juguetes-para-bebé,False,2,False,Category Tree - CO / Juguetería / Juguetes para Bebé
+1364,RETAIL,CO,1364,"Muñecas, Muñecos y Peluches",1356,muñecas-muñecos-y-peluches,False,2,False,"Category Tree - CO / Juguetería / Muñecas, Muñecos y Peluches"
+1365,RETAIL,CO,1365,Vehículos,1356,vehículos,False,2,False,Category Tree - CO / Juguetería / Vehículos
+1413,RETAIL,CO,1421,Textos Escolares,16,textos-escolares,False,2,False,"Category Tree - CO / Libros, Cómics y Revistas / Textos Escolares"
+1414,RETAIL,CO,1422,Bienestar y Ocio,16,bienestar-y-ocio,False,2,False,"Category Tree - CO / Libros, Cómics y Revistas / Bienestar y Ocio"
+1415,RETAIL,CO,1423,Cómics y Manga,16,cómics-y-manga,False,2,False,"Category Tree - CO / Libros, Cómics y Revistas / Cómics y Manga"
+1416,RETAIL,CO,1424,Profesionales y Especializados,16,profesionales-y-especializados,False,2,False,"Category Tree - CO / Libros, Cómics y Revistas / Profesionales y Especializados"
+1434,RETAIL,CO,1499,Maquillaje Para Ojos,1433,maquillaje-para-ojos,False,2,False,Category Tree - CO / Maquillaje / Maquillaje Para Ojos
+1435,RETAIL,CO,1500,Maquillaje Para Rostro,1433,maquillaje-para-rostro,False,2,False,Category Tree - CO / Maquillaje / Maquillaje Para Rostro
+1436,RETAIL,CO,1501,Maquillaje Para Uñas,1433,maquillaje-para-uñas,False,2,False,Category Tree - CO / Maquillaje / Maquillaje Para Uñas
+1437,RETAIL,CO,1502,Maquillaje Para Labios,1433,maquillaje-para-labios,False,2,False,Category Tree - CO / Maquillaje / Maquillaje Para Labios
+1463,RETAIL,CO,1530,Pouches,3,pouches,False,2,False,Category Tree - CO / Cigarrillos / Pouches
+1488,RETAIL,CO,1544,Cuidado corporal,8,cuidado-corporal,False,2,False,Category Tree - CO / Cuidado personal / Cuidado corporal
+1489,RETAIL,CO,1550,Cuidado facial,8,cuidado-facial,False,2,False,Category Tree - CO / Cuidado personal / Cuidado facial
+37,RETAIL,CO,37,Agua Natural,25,agua-natural,False,3,True,Category Tree - CO / Bebidas / Aguas / Agua Natural
+38,RETAIL,CO,38,Agua saborizada,25,agua-saborizada,False,3,True,Category Tree - CO / Bebidas / Aguas / Agua saborizada
+39,RETAIL,CO,39,Otras aguas,25,otras-aguas,False,3,True,Category Tree - CO / Bebidas / Aguas / Otras aguas
+40,RETAIL,CO,40,Bebidas de cereal,26,bebidas-de-cereal,False,3,True,Category Tree - CO / Bebidas / Bebidas de cereal / Bebidas de cereal
+41,RETAIL,CO,41,Café listo,27,café-listo,False,3,True,Category Tree - CO / Bebidas / Cafés y tés listos para beber / Café listo
+42,RETAIL,CO,42,Té listo,27,té-listo,False,3,True,Category Tree - CO / Bebidas / Cafés y tés listos para beber / Té listo
+43,RETAIL,CO,43,Cervezas,28,cervezas,False,3,True,Category Tree - CO / Bebidas / Cervezas y sidras / Cervezas
+44,RETAIL,CO,44,Sidras,28,sidras,False,3,True,Category Tree - CO / Bebidas / Cervezas y sidras / Sidras
+45,RETAIL,CO,45,Cocteles,835,cocteles,False,3,True,Category Tree - CO / Bebidas / Ready to Drink / Cocteles
+46,RETAIL,CO,46,Coolers,835,coolers,False,3,True,Category Tree - CO / Bebidas / Ready to Drink / Coolers
+47,RETAIL,CO,47,Energizantes,31,energizantes,False,3,True,Category Tree - CO / Bebidas / Energéticas e isotónicas / Energizantes
+48,RETAIL,CO,48,Isotónicos,31,isotónicos,False,3,True,Category Tree - CO / Bebidas / Energéticas e isotónicas / Isotónicos
+49,RETAIL,CO,49,Gaseosas,32,gaseosas,False,3,True,Category Tree - CO / Bebidas / Gaseosas / Gaseosas
+50,RETAIL,CO,50,Jugos,33,jugos,False,3,True,Category Tree - CO / Bebidas / Jugos y néctares / Jugos
+51,RETAIL,CO,51,Aguardientes,34,aguardientes,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Aguardientes
+52,RETAIL,CO,52,Bases para cócteles,34,bases-para-cócteles,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Bases para cócteles
+53,RETAIL,CO,53,Brandys,34,brandys,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Brandys
+54,RETAIL,CO,54,Cachaça,34,cachaa,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Cachaça
+55,RETAIL,CO,55,Cognac,34,cognac,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Cognac
+56,RETAIL,CO,56,Cremas de licor,34,cremas-de-licor,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Cremas de licor
+57,RETAIL,CO,57,Fernet,34,fernet,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Fernet
+58,RETAIL,CO,58,Ginebras,34,ginebras,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Ginebras
+59,RETAIL,CO,59,Otros licores,34,otros-licores,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Otros licores
+60,RETAIL,CO,60,Pisco,34,pisco,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Pisco
+61,RETAIL,CO,61,Rones,34,rones,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Rones
+62,RETAIL,CO,62,Tequilas,34,tequilas,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Tequilas
+63,RETAIL,CO,63,Mezcales,34,mezcales,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Mezcales
+64,RETAIL,CO,64,Vodkas,34,vodkas,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Vodkas
+65,RETAIL,CO,65,Whiskys,34,whiskys,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Whiskys
+66,RETAIL,CO,66,Jarabe,35,jarabe,False,3,True,Category Tree - CO / Bebidas / Refrescos en polvo y jarabe / Jarabe
+67,RETAIL,CO,67,Refrescos en polvo,35,refrescos-en-polvo,False,3,True,Category Tree - CO / Bebidas / Refrescos en polvo y jarabe / Refrescos en polvo
+69,RETAIL,CO,69,Espumantes,36,espumantes,False,3,True,Category Tree - CO / Bebidas / Vinos / Espumantes
+70,RETAIL,CO,70,Otros vinos,36,otros-vinos,False,3,True,Category Tree - CO / Bebidas / Vinos / Otros vinos
+71,RETAIL,CO,71,Vino blanco,36,vino-blanco,False,3,True,Category Tree - CO / Bebidas / Vinos / Vino blanco
+72,RETAIL,CO,72,Vino rosado,36,vino-rosado,False,3,True,Category Tree - CO / Bebidas / Vinos / Vino rosado
+73,RETAIL,CO,73,Vino tinto,36,vino-tinto,False,3,True,Category Tree - CO / Bebidas / Vinos / Vino tinto
+76,RETAIL,CO,76,Cigarrillos,74,cigarrillos,False,3,True,Category Tree - CO / Cigarrillos / Cigarrillos / Cigarrillos
+77,RETAIL,CO,77,Vaporizadores y dispositivos,75,vaporizadores-y-dispositivos,False,3,True,Category Tree - CO / Cigarrillos / Vaporizadores y dispositivos / Vaporizadores y dispositivos
+160,RETAIL,CO,160,Aceite,145,aceite,False,3,True,Category Tree - CO / Despensa y productos secos / Aceites y vinagres / Aceite
+161,RETAIL,CO,161,Vinagre,145,vinagre,False,3,True,Category Tree - CO / Despensa y productos secos / Aceites y vinagres / Vinagre
+162,RETAIL,CO,162,Dips,146,dips,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Dips
+163,RETAIL,CO,163,Alfajores,146,alfajores,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Alfajores
+164,RETAIL,CO,164,Barras de cereal y granola,146,barras-de-cereal-y-granola,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Barras de cereal y granola
+165,RETAIL,CO,165,Chocolates,146,chocolates,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Chocolates
+166,RETAIL,CO,166,Dulces tipicos,146,dulces-tipicos,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Dulces tipicos
+167,RETAIL,CO,167,Frutos secos y semillas,146,frutos-secos-y-semillas,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Frutos secos y semillas
+168,RETAIL,CO,168,Galletas,146,galletas,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Galletas
+169,RETAIL,CO,169,Gomitas y caramelos,146,gomitas-y-caramelos,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Gomitas y caramelos
+170,RETAIL,CO,170,Pochoclos,146,pochoclos,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Pochoclos
+171,RETAIL,CO,171,Snacks salados,146,snacks-salados,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Snacks salados
+172,RETAIL,CO,172,Anchetas,147,anchetas,False,3,True,Category Tree - CO / Despensa y productos secos / Anchetas / Anchetas
+173,RETAIL,CO,173,Arroz,148,arroz,False,3,True,"Category Tree - CO / Despensa y productos secos / Arroz, granos y pastas / Arroz"
+174,RETAIL,CO,174,Granos,148,granos,False,3,True,"Category Tree - CO / Despensa y productos secos / Arroz, granos y pastas / Granos"
+175,RETAIL,CO,175,Pastas,148,pastas,False,3,True,"Category Tree - CO / Despensa y productos secos / Arroz, granos y pastas / Pastas"
+176,RETAIL,CO,176,Azucar,149,azucar,False,3,True,Category Tree - CO / Despensa y productos secos / Azúcar y endulzantes / Azucar
+177,RETAIL,CO,177,Endulzante,149,endulzante,False,3,True,Category Tree - CO / Despensa y productos secos / Azúcar y endulzantes / Endulzante
+178,RETAIL,CO,178,Café,150,café,False,3,True,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche / Café"
+179,RETAIL,CO,179,Chocolate,150,chocolate,False,3,True,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche / Chocolate"
+180,RETAIL,CO,180,Crema para el café,150,crema-para-el-café,False,3,True,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche / Crema para el café"
+181,RETAIL,CO,181,Infusiones,150,infusiones,False,3,True,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche / Infusiones"
+182,RETAIL,CO,182,Mates,150,mates,False,3,True,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche / Mates"
+183,RETAIL,CO,183,Modificadores de leche,150,modificadores-de-leche,False,3,True,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche / Modificadores de leche"
+184,RETAIL,CO,184,Tés,150,tés,False,3,True,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche / Tés"
+185,RETAIL,CO,185,Caldos,151,caldos,False,3,True,Category Tree - CO / Despensa y productos secos / Caldos y sopas / Caldos
+186,RETAIL,CO,186,Sopas y cremas,151,sopas-y-cremas,False,3,True,Category Tree - CO / Despensa y productos secos / Caldos y sopas / Sopas y cremas
+187,RETAIL,CO,187,Avenas,152,avenas,False,3,True,"Category Tree - CO / Despensa y productos secos / Cereales, avenas y granola / Avenas"
+188,RETAIL,CO,188,Cereales,152,cereales,False,3,True,"Category Tree - CO / Despensa y productos secos / Cereales, avenas y granola / Cereales"
+189,RETAIL,CO,189,Granolas,152,granolas,False,3,True,"Category Tree - CO / Despensa y productos secos / Cereales, avenas y granola / Granolas"
+190,RETAIL,CO,190,Sal,153,sal,False,3,True,Category Tree - CO / Despensa y productos secos / Condimentos y salsas / Sal
+191,RETAIL,CO,191,Pimienta,153,pimienta,False,3,True,Category Tree - CO / Despensa y productos secos / Condimentos y salsas / Pimienta
+192,RETAIL,CO,192,Especies,153,especies,False,3,True,Category Tree - CO / Despensa y productos secos / Condimentos y salsas / Especies
+193,RETAIL,CO,193,Mayonesa,153,mayonesa,False,3,True,Category Tree - CO / Despensa y productos secos / Condimentos y salsas / Mayonesa
+194,RETAIL,CO,194,Mostaza,153,mostaza,False,3,True,Category Tree - CO / Despensa y productos secos / Condimentos y salsas / Mostaza
+195,RETAIL,CO,195,Salsa de soja,153,salsa-de-soja,False,3,True,Category Tree - CO / Despensa y productos secos / Condimentos y salsas / Salsa de soja
+196,RETAIL,CO,196,Salsa de tomate,153,salsa-de-tomate,False,3,True,Category Tree - CO / Despensa y productos secos / Condimentos y salsas / Salsa de tomate
+197,RETAIL,CO,197,Otras salsas,153,otras-salsas,False,3,True,Category Tree - CO / Despensa y productos secos / Condimentos y salsas / Otras salsas
+198,RETAIL,CO,198,Carne enlatada,154,carne-enlatada,False,3,True,Category Tree - CO / Despensa y productos secos / Conservas / Carne enlatada
+199,RETAIL,CO,199,Comidas enlatadas,154,comidas-enlatadas,False,3,True,Category Tree - CO / Despensa y productos secos / Conservas / Comidas enlatadas
+200,RETAIL,CO,200,Frutas enlatadas,154,frutas-enlatadas,False,3,True,Category Tree - CO / Despensa y productos secos / Conservas / Frutas enlatadas
+201,RETAIL,CO,201,Otras conservas,154,otras-conservas,False,3,True,Category Tree - CO / Despensa y productos secos / Conservas / Otras conservas
+202,RETAIL,CO,202,Pescado enlatado,154,pescado-enlatado,False,3,True,Category Tree - CO / Despensa y productos secos / Conservas / Pescado enlatado
+203,RETAIL,CO,203,Vegetales enlatadas,154,vegetales-enlatadas,False,3,True,Category Tree - CO / Despensa y productos secos / Conservas / Vegetales enlatadas
+204,RETAIL,CO,204,Harina,155,harina,False,3,True,Category Tree - CO / Despensa y productos secos / Harina y mezclas para preparar / Harina
+205,RETAIL,CO,205,Mezclas dulces,155,mezclas-dulces,False,3,True,Category Tree - CO / Despensa y productos secos / Harina y mezclas para preparar / Mezclas dulces
+206,RETAIL,CO,206,Mezclas saladas,155,mezclas-saladas,False,3,True,Category Tree - CO / Despensa y productos secos / Harina y mezclas para preparar / Mezclas saladas
+207,RETAIL,CO,207,Otras harinas y mezclas,155,otras-harinas-y-mezclas,False,3,True,Category Tree - CO / Despensa y productos secos / Harina y mezclas para preparar / Otras harinas y mezclas
+208,RETAIL,CO,208,Dulce de leche,156,dulce-de-leche,False,3,True,Category Tree - CO / Despensa y productos secos / Mermeladas y pastas para untar / Dulce de leche
+209,RETAIL,CO,209,Mermeladas,156,mermeladas,False,3,True,Category Tree - CO / Despensa y productos secos / Mermeladas y pastas para untar / Mermeladas
+210,RETAIL,CO,210,Miel,156,miel,False,3,True,Category Tree - CO / Despensa y productos secos / Mermeladas y pastas para untar / Miel
+211,RETAIL,CO,211,Pasta dulce para untar,156,pasta-dulce-para-untar,False,3,True,Category Tree - CO / Despensa y productos secos / Mermeladas y pastas para untar / Pasta dulce para untar
+213,RETAIL,CO,213,Arepas,158,arepas,False,3,True,Category Tree - CO / Despensa y productos secos / Panadería y pastelería / Arepas
+214,RETAIL,CO,214,Panaderia dulce,158,panaderia-dulce,False,3,True,Category Tree - CO / Despensa y productos secos / Panadería y pastelería / Panaderia dulce
+215,RETAIL,CO,215,Tortas y ponques,158,tortas-y-ponques,False,3,True,Category Tree - CO / Despensa y productos secos / Panadería y pastelería / Tortas y ponques
+216,RETAIL,CO,216,Decoración comestible,159,decoración-comestible,False,3,True,Category Tree - CO / Despensa y productos secos / Repostería / Decoración comestible
+217,RETAIL,CO,217,Esencias y colorantes,159,esencias-y-colorantes,False,3,True,Category Tree - CO / Despensa y productos secos / Repostería / Esencias y colorantes
+218,RETAIL,CO,218,Gelatina,159,gelatina,False,3,True,Category Tree - CO / Despensa y productos secos / Repostería / Gelatina
+219,RETAIL,CO,219,Otros repostería,159,otros-repostería,False,3,True,Category Tree - CO / Despensa y productos secos / Repostería / Otros repostería
+220,RETAIL,CO,220,Polvos de hornear,159,polvos-de-hornear,False,3,True,Category Tree - CO / Despensa y productos secos / Repostería / Polvos de hornear
+221,RETAIL,CO,221,Postres en polvo,159,postres-en-polvo,False,3,True,Category Tree - CO / Despensa y productos secos / Repostería / Postres en polvo
+222,RETAIL,CO,222,Salsas y coberturas,159,salsas-y-coberturas,False,3,True,Category Tree - CO / Despensa y productos secos / Repostería / Salsas y coberturas
+228,RETAIL,CO,228,Alimentos infantiles,224,alimentos-infantiles,False,3,True,Category Tree - CO / Cuidado del bebé / Fórmulas y alimentos / Alimentos infantiles
+229,RETAIL,CO,229,Formulas infantiles,224,formulas-infantiles,False,3,True,Category Tree - CO / Cuidado del bebé / Fórmulas y alimentos / Formulas infantiles
+230,RETAIL,CO,230,Colonias,225,colonias,False,3,True,Category Tree - CO / Cuidado del bebé / Higiene y cuidado / Colonias
+231,RETAIL,CO,231,"Crema, loción y gel",225,crema-loción-y-gel,False,3,True,"Category Tree - CO / Cuidado del bebé / Higiene y cuidado / Crema, loción y gel"
+232,RETAIL,CO,232,Hisopos,225,hisopos,False,3,True,Category Tree - CO / Cuidado del bebé / Higiene y cuidado / Hisopos
+233,RETAIL,CO,233,Óleos calcáreos y algodones,225,óleos-calcáreos-y-algodones,False,3,True,Category Tree - CO / Cuidado del bebé / Higiene y cuidado / Óleos calcáreos y algodones
+234,RETAIL,CO,234,Otros higiene y cuidado,225,otros-higiene-y-cuidado,False,3,True,Category Tree - CO / Cuidado del bebé / Higiene y cuidado / Otros higiene y cuidado
+235,RETAIL,CO,235,Pomadas y ungüentos,225,pomadas-y-ungüentos,False,3,True,Category Tree - CO / Cuidado del bebé / Higiene y cuidado / Pomadas y ungüentos
+236,RETAIL,CO,236,Shampoo y jabón,225,shampoo-y-jabón,False,3,True,Category Tree - CO / Cuidado del bebé / Higiene y cuidado / Shampoo y jabón
+237,RETAIL,CO,237,Talco y Aceite,225,talco-y-aceite,False,3,True,Category Tree - CO / Cuidado del bebé / Higiene y cuidado / Talco y Aceite
+238,RETAIL,CO,238,Apósitos,226,apósitos,False,3,True,Category Tree - CO / Cuidado del bebé / Lactancia y accesorios / Apósitos
+239,RETAIL,CO,239,Chupetes,226,chupetes,False,3,True,Category Tree - CO / Cuidado del bebé / Lactancia y accesorios / Chupetes
+240,RETAIL,CO,240,Extractor de leche,226,extractor-de-leche,False,3,True,Category Tree - CO / Cuidado del bebé / Lactancia y accesorios / Extractor de leche
+241,RETAIL,CO,241,Mamaderas y tetinas,226,mamaderas-y-tetinas,False,3,True,Category Tree - CO / Cuidado del bebé / Lactancia y accesorios / Mamaderas y tetinas
+242,RETAIL,CO,242,Mordillos,226,mordillos,False,3,True,Category Tree - CO / Cuidado del bebé / Lactancia y accesorios / Mordillos
+243,RETAIL,CO,243,Protectores mamarios y de pezones,226,protectores-mamarios-y-de-pezones,False,3,True,Category Tree - CO / Cuidado del bebé / Lactancia y accesorios / Protectores mamarios y de pezones
+244,RETAIL,CO,244,Vasos conservadores de leche,226,vasos-conservadores-de-leche,False,3,True,Category Tree - CO / Cuidado del bebé / Lactancia y accesorios / Vasos conservadores de leche
+245,RETAIL,CO,245,Pañales,227,pañales,False,3,True,Category Tree - CO / Cuidado del bebé / Pañales y toallitas / Pañales
+246,RETAIL,CO,246,Toallitas humedas,227,toallitas-humedas,False,3,True,Category Tree - CO / Cuidado del bebé / Pañales y toallitas / Toallitas humedas
+259,RETAIL,CO,259,Accesorios de manicura,247,accesorios-de-manicura,False,3,True,Category Tree - CO / Cuidado personal / Accesorios de belleza / Accesorios de manicura
+260,RETAIL,CO,260,Accesorios de pedicura,247,accesorios-de-pedicura,False,3,True,Category Tree - CO / Cuidado personal / Accesorios de belleza / Accesorios de pedicura
+261,RETAIL,CO,261,"Coleros, hebillas y diademas",247,coleros-hebillas-y-diademas,False,3,True,"Category Tree - CO / Cuidado personal / Accesorios de belleza / Coleros, hebillas y diademas"
+262,RETAIL,CO,262,Cosmetiqueras,247,cosmetiqueras,False,3,True,Category Tree - CO / Cuidado personal / Accesorios de belleza / Cosmetiqueras
+263,RETAIL,CO,263,Espejos,247,espejos,False,3,True,Category Tree - CO / Cuidado personal / Accesorios de belleza / Espejos
+264,RETAIL,CO,264,Kits de viaje,247,kits-de-viaje,False,3,True,Category Tree - CO / Cuidado personal / Accesorios de belleza / Kits de viaje
+265,RETAIL,CO,265,Otros accesorios de belleza,247,otros-accesorios-de-belleza,False,3,True,Category Tree - CO / Cuidado personal / Accesorios de belleza / Otros accesorios de belleza
+266,RETAIL,CO,266,Peines y cepillos para el cabello,247,peines-y-cepillos-para-el-cabello,False,3,True,Category Tree - CO / Cuidado personal / Accesorios de belleza / Peines y cepillos para el cabello
+267,RETAIL,CO,267,"Pinzas, brochas y perfiladores",247,pinzas-brochas-y-perfiladores,False,3,True,"Category Tree - CO / Cuidado personal / Accesorios de belleza / Pinzas, brochas y perfiladores"
+276,RETAIL,CO,276,Accesorios,249,accesorios,False,3,True,Category Tree - CO / Cuidado personal / Cuidado de los pies / Accesorios
+277,RETAIL,CO,277,Antimicóticos,249,antimicóticos,False,3,True,Category Tree - CO / Cuidado personal / Cuidado de los pies / Antimicóticos
+278,RETAIL,CO,278,"Callos, ampollas y juanetes",249,callos-ampollas-y-juanetes,False,3,True,"Category Tree - CO / Cuidado personal / Cuidado de los pies / Callos, ampollas y juanetes"
+279,RETAIL,CO,279,Desodorantes y talcos,249,desodorantes-y-talcos,False,3,True,Category Tree - CO / Cuidado personal / Cuidado de los pies / Desodorantes y talcos
+280,RETAIL,CO,280,Otros cuidados de los pies,249,otros-cuidados-de-los-pies,False,3,True,Category Tree - CO / Cuidado personal / Cuidado de los pies / Otros cuidados de los pies
+281,RETAIL,CO,281,Plantillas,249,plantillas,False,3,True,Category Tree - CO / Cuidado personal / Cuidado de los pies / Plantillas
+282,RETAIL,CO,282,Acondicionador,250,acondicionador,False,3,True,Category Tree - CO / Cuidado personal / Cuidado del cabello / Acondicionador
+283,RETAIL,CO,283,Coloración,250,coloración,False,3,True,Category Tree - CO / Cuidado personal / Cuidado del cabello / Coloración
+284,RETAIL,CO,284,Modelado y peinado,250,modelado-y-peinado,False,3,True,Category Tree - CO / Cuidado personal / Cuidado del cabello / Modelado y peinado
+286,RETAIL,CO,286,Reparación y tratamiento,250,reparación-y-tratamiento,False,3,True,Category Tree - CO / Cuidado personal / Cuidado del cabello / Reparación y tratamiento
+287,RETAIL,CO,287,Shampoo,250,shampoo,False,3,True,Category Tree - CO / Cuidado personal / Cuidado del cabello / Shampoo
+289,RETAIL,CO,289,Cepillos dentales,251,cepillos-dentales,False,3,True,Category Tree - CO / Cuidado personal / Cuidado oral / Cepillos dentales
+290,RETAIL,CO,290,Crema dental,251,crema-dental,False,3,True,Category Tree - CO / Cuidado personal / Cuidado oral / Crema dental
+291,RETAIL,CO,291,Enjuague bucal,251,enjuague-bucal,False,3,True,Category Tree - CO / Cuidado personal / Cuidado oral / Enjuague bucal
+292,RETAIL,CO,292,Kit dental,251,kit-dental,False,3,True,Category Tree - CO / Cuidado personal / Cuidado oral / Kit dental
+293,RETAIL,CO,293,Otros cuidado oral,251,otros-cuidado-oral,False,3,True,Category Tree - CO / Cuidado personal / Cuidado oral / Otros cuidado oral
+294,RETAIL,CO,294,Seda/hilo dental,251,sedahilo-dental,False,3,True,Category Tree - CO / Cuidado personal / Cuidado oral / Seda/hilo dental
+295,RETAIL,CO,295,"Cremas, ceras y bandas",252,cremas-ceras-y-bandas,False,3,True,"Category Tree - CO / Cuidado personal / Depilación y afeitado / Cremas, ceras y bandas"
+296,RETAIL,CO,296,Preparación y afeitado,252,preparación-y-afeitado,False,3,True,Category Tree - CO / Cuidado personal / Depilación y afeitado / Preparación y afeitado
+299,RETAIL,CO,299,Agua micelar y bifásicos,1489,agua-micelar-y-bifásicos,False,3,True,Category Tree - CO / Cuidado personal / Cuidado facial / Agua micelar y bifásicos
+304,RETAIL,CO,304,Discos de algodon,1489,discos-de-algodon,False,3,True,Category Tree - CO / Cuidado personal / Cuidado facial / Discos de algodon
+305,RETAIL,CO,305,Desodorantes,254,desodorantes,False,3,True,Category Tree - CO / Cuidado personal / Desodorantes / Desodorantes
+306,RETAIL,CO,306,Afeitadoras,255,afeitadoras,False,3,True,Category Tree - CO / Cuidado personal / Electro belleza / Afeitadoras
+307,RETAIL,CO,307,Otros electro belleza,255,otros-electro-belleza,False,3,True,Category Tree - CO / Cuidado personal / Electro belleza / Otros electro belleza
+308,RETAIL,CO,308,Reocortadoras de cabello,255,reocortadoras-de-cabello,False,3,True,Category Tree - CO / Cuidado personal / Electro belleza / Reocortadoras de cabello
+310,RETAIL,CO,310,Fragancias,256,fragancias,False,3,True,Category Tree - CO / Cuidado personal / Fragancias / Fragancias
+311,RETAIL,CO,311,Jabones y exfoliantes corporales,1488,jabones-y-exfoliantes-corporales,False,3,True,Category Tree - CO / Cuidado personal / Cuidado corporal / Jabones y exfoliantes corporales
+312,RETAIL,CO,312,Toallitas,1488,toallitas,False,3,True,Category Tree - CO / Cuidado personal / Cuidado corporal / Toallitas
+313,RETAIL,CO,313,Copas menstruales,258,copas-menstruales,False,3,True,Category Tree - CO / Cuidado personal / Protección femenina / Copas menstruales
+314,RETAIL,CO,314,Tampones,258,tampones,False,3,True,Category Tree - CO / Cuidado personal / Protección femenina / Tampones
+315,RETAIL,CO,315,Toallas higiénicas,258,toallas-higiénicas,False,3,True,Category Tree - CO / Cuidado personal / Protección femenina / Toallas higiénicas
+330,RETAIL,CO,330,Antialérgico Derma,316,antialérgico-derma,False,3,True,Category Tree - CO / Farmacia / Alergias / Antialérgico Derma
+331,RETAIL,CO,331,Antialérgico Nasal,316,antialérgico-nasal,False,3,True,Category Tree - CO / Farmacia / Alergias / Antialérgico Nasal
+332,RETAIL,CO,332,Antialérgico Ocular,316,antialérgico-ocular,False,3,True,Category Tree - CO / Farmacia / Alergias / Antialérgico Ocular
+333,RETAIL,CO,333,Antialérgico Oral,316,antialérgico-oral,False,3,True,Category Tree - CO / Farmacia / Alergias / Antialérgico Oral
+334,RETAIL,CO,334,Otros alergias,316,otros-alergias,False,3,True,Category Tree - CO / Farmacia / Alergias / Otros alergias
+335,RETAIL,CO,335,Analgésicos sistémicos,317,analgésicos-sistémicos,False,3,True,Category Tree - CO / Farmacia / Alivio del dolor / Analgésicos sistémicos
+336,RETAIL,CO,336,Analgésicos tópicos,317,analgésicos-tópicos,False,3,True,Category Tree - CO / Farmacia / Alivio del dolor / Analgésicos tópicos
+337,RETAIL,CO,337,Otros alivio del dolor,317,otros-alivio-del-dolor,False,3,True,Category Tree - CO / Farmacia / Alivio del dolor / Otros alivio del dolor
+338,RETAIL,CO,338,Muscular y Antiinflamatorio,317,muscular-y-antiinflamatorio,False,3,True,Category Tree - CO / Farmacia / Alivio del dolor / Muscular y Antiinflamatorio
+339,RETAIL,CO,339,"Alcohol, Antisépticos y Agua oxigenada",318,alcohol-antisépticos-y-agua-oxigenada,False,3,True,"Category Tree - CO / Farmacia / Botiquín y primeros auxilios / Alcohol, Antisépticos y Agua oxigenada"
+341,RETAIL,CO,341,Algodón y Pads,318,algodón-y-pads,False,3,True,Category Tree - CO / Farmacia / Botiquín y primeros auxilios / Algodón y Pads
+343,RETAIL,CO,343,Gel antibacterial,318,gel-antibacterial,False,3,True,Category Tree - CO / Farmacia / Botiquín y primeros auxilios / Gel antibacterial
+344,RETAIL,CO,344,"Jeringas, guantes Y material hospitalario",318,jeringas-guantes-y-material-hospitalario,False,3,True,"Category Tree - CO / Farmacia / Botiquín y primeros auxilios / Jeringas, guantes Y material hospitalario"
+345,RETAIL,CO,345,Otros Botiquín y primeros auxilios,318,otros-botiquín-y-primeros-auxilios,False,3,True,Category Tree - CO / Farmacia / Botiquín y primeros auxilios / Otros Botiquín y primeros auxilios
+346,RETAIL,CO,346,Antimicótico tópico,319,antimicótico-tópico,False,3,True,Category Tree - CO / Farmacia / Cuidado dermatológico / Antimicótico tópico
+347,RETAIL,CO,347,Otros cuidado dermatologico,319,otros-cuidado-dermatologico,False,3,True,Category Tree - CO / Farmacia / Cuidado dermatológico / Otros cuidado dermatologico
+348,RETAIL,CO,348,Protectores dérmicos,319,protectores-dérmicos,False,3,True,Category Tree - CO / Farmacia / Cuidado dermatológico / Protectores dérmicos
+349,RETAIL,CO,349,Derma cuidado,319,derma-cuidado,False,3,True,Category Tree - CO / Farmacia / Cuidado dermatológico / Derma cuidado
+350,RETAIL,CO,350,Capilares,319,capilares,False,3,True,Category Tree - CO / Farmacia / Cuidado dermatológico / Capilares
+351,RETAIL,CO,351,Tratamiento de cicatrices y heridas,319,tratamiento-de-cicatrices-y-heridas,False,3,True,Category Tree - CO / Farmacia / Cuidado dermatológico / Tratamiento de cicatrices y heridas
+352,RETAIL,CO,352,Pruebas COVID-19,342,pruebas-covid-19,False,3,True,Category Tree - CO / Farmacia / Mundo COVID / Pruebas COVID-19
+353,RETAIL,CO,353,Calcetines terapeuticos,320,calcetines-terapeuticos,False,3,True,Category Tree - CO / Farmacia / Equipo y material médico / Calcetines terapeuticos
+354,RETAIL,CO,354,Equipos médicos,320,equipos-médicos,False,3,True,Category Tree - CO / Farmacia / Equipo y material médico / Equipos médicos
+355,RETAIL,CO,355,Productos para rehabilitación,320,productos-para-rehabilitación,False,3,True,Category Tree - CO / Farmacia / Equipo y material médico / Productos para rehabilitación
+356,RETAIL,CO,356,Descongestionantes,321,descongestionantes,False,3,True,Category Tree - CO / Farmacia / Gripa y tos / Descongestionantes
+357,RETAIL,CO,357,Dolor de garganta,321,dolor-de-garganta,False,3,True,Category Tree - CO / Farmacia / Gripa y tos / Dolor de garganta
+358,RETAIL,CO,358,Otros gripa y tos,321,otros-gripa-y-tos,False,3,True,Category Tree - CO / Farmacia / Gripa y tos / Otros gripa y tos
+359,RETAIL,CO,359,Preparaciones Respiratorias,321,preparaciones-respiratorias,False,3,True,Category Tree - CO / Farmacia / Gripa y tos / Preparaciones Respiratorias
+360,RETAIL,CO,360,Resfriado,321,resfriado,False,3,True,Category Tree - CO / Farmacia / Gripa y tos / Resfriado
+361,RETAIL,CO,361,Tos,321,tos,False,3,True,Category Tree - CO / Farmacia / Gripa y tos / Tos
+362,RETAIL,CO,362,Otros medicamentos,322,otros-medicamentos,False,3,True,Category Tree - CO / Farmacia / Otros medicamentos / Otros medicamentos
+363,RETAIL,CO,363,Productos naturales,323,productos-naturales,False,3,True,Category Tree - CO / Farmacia / Productos naturales / Productos naturales
+364,RETAIL,CO,364,Calzones Anatómicos,324,calzones-anatómicos,False,3,True,Category Tree - CO / Farmacia / Protección incontinencia / Calzones Anatómicos
+365,RETAIL,CO,365,Otros protección incontinencia,324,otros-protección-incontinencia,False,3,True,Category Tree - CO / Farmacia / Protección incontinencia / Otros protección incontinencia
+366,RETAIL,CO,366,Predoblados,324,predoblados,False,3,True,Category Tree - CO / Farmacia / Protección incontinencia / Predoblados
+367,RETAIL,CO,367,Ropa Interior control de Incontinencia,324,ropa-interior-control-de-incontinencia,False,3,True,Category Tree - CO / Farmacia / Protección incontinencia / Ropa Interior control de Incontinencia
+368,RETAIL,CO,368,Toallas húmedas,324,toallas-húmedas,False,3,True,Category Tree - CO / Farmacia / Protección incontinencia / Toallas húmedas
+369,RETAIL,CO,369,Toallas protectoras,324,toallas-protectoras,False,3,True,Category Tree - CO / Farmacia / Protección incontinencia / Toallas protectoras
+370,RETAIL,CO,370,Antiácidos,325,antiácidos,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Antiácidos
+371,RETAIL,CO,371,Antidiarréicos,325,antidiarréicos,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Antidiarréicos
+372,RETAIL,CO,372,Antigases,325,antigases,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Antigases
+373,RETAIL,CO,373,Antináuseas,325,antináuseas,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Antináuseas
+374,RETAIL,CO,374,Antiparasitario,325,antiparasitario,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Antiparasitario
+375,RETAIL,CO,375,Laxantes,325,laxantes,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Laxantes
+376,RETAIL,CO,376,Otros remedios digestivos,325,otros-remedios-digestivos,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Otros remedios digestivos
+377,RETAIL,CO,377,Probióticos,325,probióticos,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Probióticos
+378,RETAIL,CO,378,Remedios digestivos,325,remedios-digestivos,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Remedios digestivos
+379,RETAIL,CO,379,Suero,325,suero,False,3,True,Category Tree - CO / Farmacia / Salud digestiva / Suero
+380,RETAIL,CO,380,Nutrición deportiva,326,nutrición-deportiva,False,3,True,Category Tree - CO / Farmacia / Salud nutricional / Nutrición deportiva
+381,RETAIL,CO,381,Suplementos alimenticios,326,suplementos-alimenticios,False,3,True,Category Tree - CO / Farmacia / Salud nutricional / Suplementos alimenticios
+382,RETAIL,CO,382,Accesorios sexuales,327,accesorios-sexuales,False,3,True,Category Tree - CO / Farmacia / Salud sexual / Accesorios sexuales
+383,RETAIL,CO,383,Anticonceptivos,327,anticonceptivos,False,3,True,Category Tree - CO / Farmacia / Salud sexual / Anticonceptivos
+384,RETAIL,CO,384,Lubricantes,327,lubricantes,False,3,True,Category Tree - CO / Farmacia / Salud sexual / Lubricantes
+385,RETAIL,CO,385,Otros salud sexual,327,otros-salud-sexual,False,3,True,Category Tree - CO / Farmacia / Salud sexual / Otros salud sexual
+386,RETAIL,CO,386,Óvulos y cremas vaginales,327,óvulos-y-cremas-vaginales,False,3,True,Category Tree - CO / Farmacia / Salud sexual / Óvulos y cremas vaginales
+387,RETAIL,CO,387,Preservativos,327,preservativos,False,3,True,Category Tree - CO / Farmacia / Salud sexual / Preservativos
+388,RETAIL,CO,388,Prueba de embarazo,327,prueba-de-embarazo,False,3,True,Category Tree - CO / Farmacia / Salud sexual / Prueba de embarazo
+389,RETAIL,CO,389,Gafas de lectura,328,gafas-de-lectura,False,3,True,Category Tree - CO / Farmacia / Salud visual / Gafas de lectura
+390,RETAIL,CO,390,Lentes de sol,888,lentes-de-sol,False,3,True,Category Tree - CO / Moda / Accesorios de moda / Lentes de sol
+391,RETAIL,CO,391,"Gotas, lubricantes y lágrimas",328,gotas-lubricantes-y-lágrimas,False,3,True,"Category Tree - CO / Farmacia / Salud visual / Gotas, lubricantes y lágrimas"
+392,RETAIL,CO,392,Otros salud visual,328,otros-salud-visual,False,3,True,Category Tree - CO / Farmacia / Salud visual / Otros salud visual
+393,RETAIL,CO,393,Solución para lentes,328,solución-para-lentes,False,3,True,Category Tree - CO / Farmacia / Salud visual / Solución para lentes
+395,RETAIL,CO,395,Vitaminas y multivitamínicos,326,vitaminas-y-multivitamínicos,False,3,True,Category Tree - CO / Farmacia / Salud nutricional / Vitaminas y multivitamínicos
+403,RETAIL,CO,403,Absorbentes de húmedad,396,absorbentes-de-húmedad,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Ambientadores y velas / Absorbentes de húmedad
+404,RETAIL,CO,404,Ambientadores,396,ambientadores,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Ambientadores y velas / Ambientadores
+405,RETAIL,CO,405,Desinfectantes de ambiente,396,desinfectantes-de-ambiente,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Ambientadores y velas / Desinfectantes de ambiente
+406,RETAIL,CO,406,Difusores de aroma,396,difusores-de-aroma,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Ambientadores y velas / Difusores de aroma
+407,RETAIL,CO,407,Otros ambientadores,396,otros-ambientadores,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Ambientadores y velas / Otros ambientadores
+408,RETAIL,CO,408,Velas,396,velas,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Ambientadores y velas / Velas
+409,RETAIL,CO,409,Otros artículos de papel,397,otros-artículos-de-papel,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Articulos de papel / Otros artículos de papel
+410,RETAIL,CO,410,Pañuelos desechables,397,pañuelos-desechables,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Articulos de papel / Pañuelos desechables
+411,RETAIL,CO,411,Papel higiénico,397,papel-higiénico,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Articulos de papel / Papel higiénico
+412,RETAIL,CO,412,Servilletas,397,servilletas,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Articulos de papel / Servilletas
+413,RETAIL,CO,413,Toallas de cocina,397,toallas-de-cocina,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Articulos de papel / Toallas de cocina
+414,RETAIL,CO,414,Insecticidas,398,insecticidas,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Control de plagas / Insecticidas
+415,RETAIL,CO,415,Raticidas,398,raticidas,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Control de plagas / Raticidas
+416,RETAIL,CO,416,Trampas,398,trampas,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Control de plagas / Trampas
+417,RETAIL,CO,417,Bolsas para lavar ropa,399,bolsas-para-lavar-ropa,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa / Bolsas para lavar ropa
+418,RETAIL,CO,418,Detergentes,399,detergentes,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa / Detergentes
+419,RETAIL,CO,419,Fragancias ropa,399,fragancias-ropa,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa / Fragancias ropa
+420,RETAIL,CO,420,Ganchos para ropa,399,ganchos-para-ropa,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa / Ganchos para ropa
+421,RETAIL,CO,421,Otros cuidado de la ropa,399,otros-cuidado-de-la-ropa,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa / Otros cuidado de la ropa
+422,RETAIL,CO,422,Pre planchado,399,pre-planchado,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa / Pre planchado
+423,RETAIL,CO,423,Quitamancha,399,quitamancha,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa / Quitamancha
+424,RETAIL,CO,424,Suavizantes,399,suavizantes,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa / Suavizantes
+425,RETAIL,CO,425,Tinte para ropa,399,tinte-para-ropa,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de la ropa / Tinte para ropa
+426,RETAIL,CO,426,Cepillos y otros,400,cepillos-y-otros,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de los zapatos / Cepillos y otros
+427,RETAIL,CO,427,Cera,400,cera,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de los zapatos / Cera
+428,RETAIL,CO,428,Jabón para calzado,400,jabón-para-calzado,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de los zapatos / Jabón para calzado
+429,RETAIL,CO,429,Otros cuidados de los zapatos,400,otros-cuidados-de-los-zapatos,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Cuidado de los zapatos / Otros cuidados de los zapatos
+430,RETAIL,CO,430,Ceras y retauradores,401,ceras-y-retauradores,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Limpieza / Ceras y retauradores
+431,RETAIL,CO,431,Limpiador de vidrios,401,limpiador-de-vidrios,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Limpieza / Limpiador de vidrios
+432,RETAIL,CO,432,Limpiadores multiusos,401,limpiadores-multiusos,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Limpieza / Limpiadores multiusos
+433,RETAIL,CO,433,Otros limpiadores,401,otros-limpiadores,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Limpieza / Otros limpiadores
+434,RETAIL,CO,434,Paños multiusos,401,paños-multiusos,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Limpieza / Paños multiusos
+435,RETAIL,CO,435,Detergente Vajillas,401,detergente-vajillas,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Limpieza / Detergente Vajillas
+436,RETAIL,CO,436,Ustensilios de aseo,401,ustensilios-de-aseo,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Limpieza / Ustensilios de aseo
+437,RETAIL,CO,437,Vajilla desechable,402,vajilla-desechable,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Desechables / Vajilla desechable
+438,RETAIL,CO,438,Papel aluminio,402,papel-aluminio,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Desechables / Papel aluminio
+439,RETAIL,CO,439,Papel film,402,papel-film,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Desechables / Papel film
+440,RETAIL,CO,440,Papel parafinado,402,papel-parafinado,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Desechables / Papel parafinado
+441,RETAIL,CO,441,Bolsas para hornear,402,bolsas-para-hornear,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Desechables / Bolsas para hornear
+442,RETAIL,CO,442,Bolsas para basura,402,bolsas-para-basura,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Desechables / Bolsas para basura
+443,RETAIL,CO,443,Otros desechables,402,otros-desechables,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Desechables / Otros desechables
+448,RETAIL,CO,448,Collares y correas,444,collares-y-correas,False,3,True,Category Tree - CO / Mascotas / Accesorios mascotas / Collares y correas
+449,RETAIL,CO,449,Comederos y bebederos,444,comederos-y-bebederos,False,3,True,Category Tree - CO / Mascotas / Accesorios mascotas / Comederos y bebederos
+450,RETAIL,CO,450,Implementos de viaje,444,implementos-de-viaje,False,3,True,Category Tree - CO / Mascotas / Accesorios mascotas / Implementos de viaje
+451,RETAIL,CO,451,Juguetes para mascotas,444,juguetes-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Accesorios mascotas / Juguetes para mascotas
+452,RETAIL,CO,452,Otros accesorios mascotas,444,otros-accesorios-mascotas,False,3,True,Category Tree - CO / Mascotas / Accesorios mascotas / Otros accesorios mascotas
+453,RETAIL,CO,453,Rascadores y gimnasios,444,rascadores-y-gimnasios,False,3,True,Category Tree - CO / Mascotas / Accesorios mascotas / Rascadores y gimnasios
+454,RETAIL,CO,454,Alimento para gatos,445,alimento-para-gatos,False,3,True,Category Tree - CO / Mascotas / Alimento para mascotas / Alimento para gatos
+455,RETAIL,CO,455,Alimento para otras mascotas,445,alimento-para-otras-mascotas,False,3,True,Category Tree - CO / Mascotas / Alimento para mascotas / Alimento para otras mascotas
+456,RETAIL,CO,456,Alimento para perros,445,alimento-para-perros,False,3,True,Category Tree - CO / Mascotas / Alimento para mascotas / Alimento para perros
+457,RETAIL,CO,457,Arena para gatos,446,arena-para-gatos,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Arena para gatos
+458,RETAIL,CO,458,Otros elementos de aseo para mascotas,446,otros-elementos-de-aseo-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Otros elementos de aseo para mascotas
+459,RETAIL,CO,459,Shampoo y talco para mascotas,446,shampoo-y-talco-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Shampoo y talco para mascotas
+460,RETAIL,CO,460,Medicamentos para mascotas,447,medicamentos-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Medicamentos / Medicamentos para mascotas
+465,RETAIL,CO,465,Otros accesorios para alimentación,461,otros-accesorios-para-alimentación,False,3,True,Category Tree - CO / Bebés y niños / Accesorios para alimentación / Otros accesorios para alimentación
+467,RETAIL,CO,467,"Caminadores, saltarines y sillas mecedoras",1363,caminadores-saltarines-y-sillas-mecedoras,False,3,True,"Category Tree - CO / Juguetería / Juguetes para Bebé / Caminadores, saltarines y sillas mecedoras"
+468,RETAIL,CO,468,"Cobijas, mantas y blancos",1256,cobijas-mantas-y-blancos,False,3,True,"Category Tree - CO / Bebés y niños / Dormitorio del Bebé / Cobijas, mantas y blancos"
+471,RETAIL,CO,471,Coches y Carriolas,650,coches-y-carriolas,False,3,True,Category Tree - CO / Bebés y niños / Paseo con el bebé / Coches y Carriolas
+473,RETAIL,CO,473,Sillas de comedor,461,sillas-de-comedor,False,3,True,Category Tree - CO / Bebés y niños / Accesorios para alimentación / Sillas de comedor
+474,RETAIL,CO,474,Otros Juegos al Aire Libre,1360,otros-juegos-al-aire-libre,False,3,True,Category Tree - CO / Juguetería / Juegos al aire libre / Otros Juegos al Aire Libre
+476,RETAIL,CO,476,Otros Juegos de mesa,1361,otros-juegos-de-mesa,False,3,True,Category Tree - CO / Juguetería / Juegos de Mesa / Otros Juegos de mesa
+477,RETAIL,CO,477,Otros Juguetes para Bebé,1363,otros-juguetes-para-bebé,False,3,True,Category Tree - CO / Juguetería / Juguetes para Bebé / Otros Juguetes para Bebé
+478,RETAIL,CO,478,"Otros Muñecas, Muñecos y Peluches",1364,otros-muñecas-muñecos-y-peluches,False,3,True,"Category Tree - CO / Juguetería / Muñecas, Muñecos y Peluches / Otros Muñecas, Muñecos y Peluches"
+479,RETAIL,CO,479,Barandas,464,barandas,False,3,True,Category Tree - CO / Bebés y niños / Seguridad infantil / Barandas
+480,RETAIL,CO,480,Monitores para bebé,464,monitores-para-bebé,False,3,True,Category Tree - CO / Bebés y niños / Seguridad infantil / Monitores para bebé
+481,RETAIL,CO,481,Protectores y seguros,464,protectores-y-seguros,False,3,True,Category Tree - CO / Bebés y niños / Seguridad infantil / Protectores y seguros
+487,RETAIL,CO,487,Otros Accesorios para vehículos,482,otros-accesorios-para-vehículos,False,3,True,Category Tree - CO / Auto partes / Accesorios para vehículos / Otros Accesorios para vehículos
+489,RETAIL,CO,489,"Otros Liquidos, Aditivos y Aceites",484,otros-liquidos-aditivos-y-aceites,False,3,True,"Category Tree - CO / Auto partes / Liquidos, Aditivos y Aceites / Otros Liquidos, Aditivos y Aceites"
+490,RETAIL,CO,490,Otros Llantas y rines,485,otros-llantas-y-rines,False,3,True,Category Tree - CO / Auto partes / Llantas y rines / Otros Llantas y rines
+491,RETAIL,CO,491,Otros Productos de limpieza,486,otros-productos-de-limpieza,False,3,True,Category Tree - CO / Auto partes / Productos de limpieza / Otros Productos de limpieza
+509,RETAIL,CO,509,Otros accesorios,888,otros-accesorios,False,3,True,Category Tree - CO / Moda / Accesorios de moda / Otros accesorios
+513,RETAIL,CO,513,Otros calzados,891,otros-calzados,False,3,True,Category Tree - CO / Moda / Calzados / Otros calzados
+517,RETAIL,CO,517,Ropa bebés,890,ropa-bebés,False,3,True,Category Tree - CO / Moda / Bebés / Ropa bebés
+519,RETAIL,CO,519,Otros Ropas,893,otros-ropas,False,3,True,Category Tree - CO / Moda / Ropa / Otros Ropas
+527,RETAIL,CO,527,Otros Otros Deportes,522,otros-otros-deportes,False,3,True,Category Tree - CO / Deportes y fitness / Otros Deportes / Otros Otros Deportes
+528,RETAIL,CO,528,Otros Camping Y Outdoor,523,otros-camping-y-outdoor,False,3,True,Category Tree - CO / Deportes y fitness / Camping Y Outdoor / Otros Camping Y Outdoor
+530,RETAIL,CO,530,Otros Máquinas Para Hacer Ejercicio,525,otros-máquinas-para-hacer-ejercicio,False,3,True,Category Tree - CO / Deportes y fitness / Máquinas Para Hacer Ejercicio / Otros Máquinas Para Hacer Ejercicio
+531,RETAIL,CO,531,Entrenamiento Multifuerza,525,entrenamiento-multifuerza,False,3,True,Category Tree - CO / Deportes y fitness / Máquinas Para Hacer Ejercicio / Entrenamiento Multifuerza
+541,RETAIL,CO,541,Periódicos y Revistas,535,periódicos-y-revistas,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Periódicos y Revistas / Periódicos y Revistas"
+549,RETAIL,CO,549,Consolas Dj,544,consolas-dj,False,3,True,Category Tree - CO / Música e instrumentos / Consolas Dj / Consolas Dj
+550,RETAIL,CO,550,Otros Cuerdas,545,otros-cuerdas,False,3,True,Category Tree - CO / Música e instrumentos / Cuerdas / Otros Cuerdas
+552,RETAIL,CO,552,Otros Teclados,547,otros-teclados,False,3,True,Category Tree - CO / Música e instrumentos / Teclados / Otros Teclados
+553,RETAIL,CO,553,Otros Vientos,548,otros-vientos,False,3,True,Category Tree - CO / Música e instrumentos / Vientos / Otros Vientos
+563,RETAIL,CO,563,Otros Baños,554,otros-baños,False,3,True,Category Tree - CO / Decoración y hogar / Baños / Otros Baños
+564,RETAIL,CO,564,"Articulos de Bar, Vino y Coctelería",556,articulos-de-bar-vino-y-coctelería,False,3,True,"Category Tree - CO / Decoración y hogar / Cocina / Articulos de Bar, Vino y Coctelería"
+565,RETAIL,CO,565,Otros Cocina,556,otros-cocina,False,3,True,Category Tree - CO / Decoración y hogar / Cocina / Otros Cocina
+566,RETAIL,CO,566,Otros Decoración del hogar,557,otros-decoración-del-hogar,False,3,True,Category Tree - CO / Decoración y hogar / Decoración del hogar / Otros Decoración del hogar
+567,RETAIL,CO,567,Otros Dormitorio,558,otros-dormitorio,False,3,True,Category Tree - CO / Decoración y hogar / Dormitorio / Otros Dormitorio
+568,RETAIL,CO,568,Otros Electromenor,559,otros-electromenor,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Otros Electromenor
+569,RETAIL,CO,569,Maletas de viaje,838,maletas-de-viaje,False,3,True,Category Tree - CO / Moda / Bolsos y maletas / Maletas de viaje
+570,RETAIL,CO,570,Otros Muebles,561,otros-muebles,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Otros Muebles
+571,RETAIL,CO,571,Otros Organizadores,562,otros-organizadores,False,3,True,Category Tree - CO / Decoración y hogar / Organizadores / Otros Organizadores
+577,RETAIL,CO,577,Otros Aire Libre,572,otros-aire-libre,False,3,True,Category Tree - CO / Ferretería y jardín / Aire Libre / Otros Aire Libre
+578,RETAIL,CO,578,"Carbón, Leña y chispa",572,carbón-leña-y-chispa,False,3,True,"Category Tree - CO / Ferretería y jardín / Aire Libre / Carbón, Leña y chispa"
+579,RETAIL,CO,579,Otros ferretería,574,otros-ferretería,False,3,True,Category Tree - CO / Ferretería y jardín / Ferretería / Otros ferretería
+580,RETAIL,CO,580,Otros Iluminación y eléctricos,575,otros-iluminación-y-eléctricos,False,3,True,Category Tree - CO / Ferretería y jardín / Iluminación y eléctricos / Otros Iluminación y eléctricos
+581,RETAIL,CO,581,Otros Jardinería,576,otros-jardinería,False,3,True,Category Tree - CO / Ferretería y jardín / Jardinería / Otros Jardinería
+587,RETAIL,CO,587,Otros Decoración para fiestas,582,otros-decoración-para-fiestas,False,3,True,Category Tree - CO / Fiestas y piñatas / Decoración para fiestas / Otros Decoración para fiestas
+588,RETAIL,CO,588,Disfraces,583,disfraces,False,3,True,Category Tree - CO / Fiestas y piñatas / Disfraces / Disfraces
+589,RETAIL,CO,589,Empaques,584,empaques,False,3,True,Category Tree - CO / Fiestas y piñatas / Empaques y Tarjetas / Empaques
+590,RETAIL,CO,590,Navidad,582,navidad,False,3,True,Category Tree - CO / Fiestas y piñatas / Decoración para fiestas / Navidad
+595,RETAIL,CO,595,Orquidea,808,orquidea,False,3,True,Category Tree - CO / Flores y Plantas / Plantas / Orquidea
+603,RETAIL,CO,603,Otros Impresión,596,otros-impresión,False,3,True,Category Tree - CO / Tecnología / Impresión e Insumos / Otros Impresión
+604,RETAIL,CO,604,Otros Cuadernos y Apuntes,597,otros-cuadernos-y-apuntes,False,3,True,Category Tree - CO / Papelería y oficina / Cuadernos y Apuntes / Otros Cuadernos y Apuntes
+605,RETAIL,CO,605,Otros Pintura,598,otros-pintura,False,3,True,Category Tree - CO / Arte y Manualidades / Pintura / Otros Pintura
+606,RETAIL,CO,606,Otros Suministros de oficina,599,otros-suministros-de-oficina,False,3,True,Category Tree - CO / Papelería y oficina / Suministros de oficina / Otros Suministros de oficina
+608,RETAIL,CO,608,Tarjetas y lluvia de sobres,584,tarjetas-y-lluvia-de-sobres,False,3,True,Category Tree - CO / Fiestas y piñatas / Empaques y Tarjetas / Tarjetas y lluvia de sobres
+609,RETAIL,CO,609,Otros Útiles escolares,602,otros-útiles-escolares,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Otros Útiles escolares
+619,RETAIL,CO,619,Otros Audio y sonido,612,otros-audio-y-sonido,False,3,True,Category Tree - CO / Tecnología / Audio y sonido / Otros Audio y sonido
+620,RETAIL,CO,620,Otros Cámaras,613,otros-cámaras,False,3,True,Category Tree - CO / Tecnología / Cámaras / Otros Cámaras
+621,RETAIL,CO,621,Otros Computadores,614,otros-computadores,False,3,True,Category Tree - CO / Tecnología / Computadores / Otros Computadores
+624,RETAIL,CO,624,Otros Celulares y Telefonía,617,otros-celulares-y-telefonía,False,3,True,Category Tree - CO / Tecnología / Celulares y Telefonía / Otros Celulares y Telefonía
+625,RETAIL,CO,625,Otros Televisión y video,618,otros-televisión-y-video,False,3,True,Category Tree - CO / Tecnología / Televisión y video / Otros Televisión y video
+626,RETAIL,CO,626,Panaderia salada,158,panaderia-salada,False,3,True,Category Tree - CO / Despensa y productos secos / Panadería y pastelería / Panaderia salada
+634,RETAIL,CO,634,Otras bebidas en polvo,35,otras-bebidas-en-polvo,False,3,True,Category Tree - CO / Bebidas / Refrescos en polvo y jarabe / Otras bebidas en polvo
+635,RETAIL,CO,635,Néctares,33,néctares,False,3,True,Category Tree - CO / Bebidas / Jugos y néctares / Néctares
+640,RETAIL,CO,640,Filtros de café,150,filtros-de-café,False,3,True,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche / Filtros de café"
+643,RETAIL,CO,643,Otros,642,otros,False,3,True,Category Tree - CO / Otros / Otros / Otros
+645,RETAIL,CO,645,Habanos,644,habanos,False,3,True,Category Tree - CO / Cigarrillos / Habanos / Habanos
+653,RETAIL,CO,653,Bacinicas y adaptadores de baño,649,bacinicas-y-adaptadores-de-baño,False,3,True,Category Tree - CO / Bebés y niños / Artículos para el baño / Bacinicas y adaptadores de baño
+654,RETAIL,CO,654,Bañera y soporte,649,bañera-y-soporte,False,3,True,Category Tree - CO / Bebés y niños / Artículos para el baño / Bañera y soporte
+655,RETAIL,CO,655,Esponjas y guantes de baño,649,esponjas-y-guantes-de-baño,False,3,True,Category Tree - CO / Bebés y niños / Artículos para el baño / Esponjas y guantes de baño
+656,RETAIL,CO,656,"Cargadores, fulares y arneses",650,cargadores-fulares-y-arneses,False,3,True,"Category Tree - CO / Bebés y niños / Paseo con el bebé / Cargadores, fulares y arneses"
+658,RETAIL,CO,658,Organizadores para carros,650,organizadores-para-carros,False,3,True,Category Tree - CO / Bebés y niños / Paseo con el bebé / Organizadores para carros
+659,RETAIL,CO,659,Pañaleras,650,pañaleras,False,3,True,Category Tree - CO / Bebés y niños / Paseo con el bebé / Pañaleras
+660,RETAIL,CO,660,Accesorios para coches,650,accesorios-para-coches,False,3,True,Category Tree - CO / Bebés y niños / Paseo con el bebé / Accesorios para coches
+661,RETAIL,CO,661,Accesorios para silla de carro,650,accesorios-para-silla-de-carro,False,3,True,Category Tree - CO / Bebés y niños / Paseo con el bebé / Accesorios para silla de carro
+662,RETAIL,CO,662,Sillas para carro,650,sillas-para-carro,False,3,True,Category Tree - CO / Bebés y niños / Paseo con el bebé / Sillas para carro
+665,RETAIL,CO,665,Gimnasios inteligentes y tapetes,1363,gimnasios-inteligentes-y-tapetes,False,3,True,Category Tree - CO / Juguetería / Juguetes para Bebé / Gimnasios inteligentes y tapetes
+666,RETAIL,CO,666,Juguetes didácticos,1363,juguetes-didácticos,False,3,True,Category Tree - CO / Juguetería / Juguetes para Bebé / Juguetes didácticos
+668,RETAIL,CO,668,Figuras de acción y robots,1364,figuras-de-acción-y-robots,False,3,True,"Category Tree - CO / Juguetería / Muñecas, Muñecos y Peluches / Figuras de acción y robots"
+669,RETAIL,CO,669,Arcos y Flechas,1360,arcos-y-flechas,False,3,True,Category Tree - CO / Juguetería / Juegos al aire libre / Arcos y Flechas
+671,RETAIL,CO,671,Juegos musicales,1362,juegos-musicales,False,3,True,Category Tree - CO / Juguetería / Juegos Musicales y de rol / Juegos musicales
+672,RETAIL,CO,672,Muñecas y Bebés,1364,muñecas-y-bebés,False,3,True,"Category Tree - CO / Juguetería / Muñecas, Muñecos y Peluches / Muñecas y Bebés"
+673,RETAIL,CO,673,Rompecabezas,1361,rompecabezas,False,3,True,Category Tree - CO / Juguetería / Juegos de Mesa / Rompecabezas
+674,RETAIL,CO,674,Otros seguridad infantil,464,otros-seguridad-infantil,False,3,True,Category Tree - CO / Bebés y niños / Seguridad infantil / Otros seguridad infantil
+676,RETAIL,CO,676,Accesorios para exterior,482,accesorios-para-exterior,False,3,True,Category Tree - CO / Auto partes / Accesorios para vehículos / Accesorios para exterior
+677,RETAIL,CO,677,Accesorios para interior,482,accesorios-para-interior,False,3,True,Category Tree - CO / Auto partes / Accesorios para vehículos / Accesorios para interior
+678,RETAIL,CO,678,Audio para vehículo,482,audio-para-vehículo,False,3,True,Category Tree - CO / Auto partes / Accesorios para vehículos / Audio para vehículo
+679,RETAIL,CO,679,Cascos,482,cascos,False,3,True,Category Tree - CO / Auto partes / Accesorios para vehículos / Cascos
+680,RETAIL,CO,680,Aceites,484,aceites,False,3,True,"Category Tree - CO / Auto partes / Liquidos, Aditivos y Aceites / Aceites"
+681,RETAIL,CO,681,Lubricantes,484,lubricantes,False,3,True,"Category Tree - CO / Auto partes / Liquidos, Aditivos y Aceites / Lubricantes"
+682,RETAIL,CO,682,Llantas,485,llantas,False,3,True,Category Tree - CO / Auto partes / Llantas y rines / Llantas
+683,RETAIL,CO,683,Rines,485,rines,False,3,True,Category Tree - CO / Auto partes / Llantas y rines / Rines
+684,RETAIL,CO,684,Ambientadores,486,ambientadores,False,3,True,Category Tree - CO / Auto partes / Productos de limpieza / Ambientadores
+685,RETAIL,CO,685,Cera,486,cera,False,3,True,Category Tree - CO / Auto partes / Productos de limpieza / Cera
+686,RETAIL,CO,686,Cromador y exterior,486,cromador-y-exterior,False,3,True,Category Tree - CO / Auto partes / Productos de limpieza / Cromador y exterior
+687,RETAIL,CO,687,Franelas,486,franelas,False,3,True,Category Tree - CO / Auto partes / Productos de limpieza / Franelas
+688,RETAIL,CO,688,Otros Cuidados Para Automovil,486,otros-cuidados-para-automovil,False,3,True,Category Tree - CO / Auto partes / Productos de limpieza / Otros Cuidados Para Automovil
+689,RETAIL,CO,689,Shampoo Para Auto,486,shampoo-para-auto,False,3,True,Category Tree - CO / Auto partes / Productos de limpieza / Shampoo Para Auto
+690,RETAIL,CO,690,Baterias,675,baterias,False,3,True,Category Tree - CO / Auto partes / Repuestos Carros / Baterias
+691,RETAIL,CO,691,Carroceria,675,carroceria,False,3,True,Category Tree - CO / Auto partes / Repuestos Carros / Carroceria
+692,RETAIL,CO,692,Iluminación,675,iluminación,False,3,True,Category Tree - CO / Auto partes / Repuestos Carros / Iluminación
+693,RETAIL,CO,693,Motor,675,motor,False,3,True,Category Tree - CO / Auto partes / Repuestos Carros / Motor
+694,RETAIL,CO,694,Repuestos de interior,675,repuestos-de-interior,False,3,True,Category Tree - CO / Auto partes / Repuestos Carros / Repuestos de interior
+697,RETAIL,CO,697,Accesorios de baño,554,accesorios-de-baño,False,3,True,Category Tree - CO / Decoración y hogar / Baños / Accesorios de baño
+698,RETAIL,CO,698,Grifería Baños,554,grifería-baños,False,3,True,Category Tree - CO / Decoración y hogar / Baños / Grifería Baños
+699,RETAIL,CO,699,Lavabos,554,lavabos,False,3,True,Category Tree - CO / Decoración y hogar / Baños / Lavabos
+700,RETAIL,CO,700,Sanitarios y Accesorios,554,sanitarios-y-accesorios,False,3,True,Category Tree - CO / Decoración y hogar / Baños / Sanitarios y Accesorios
+702,RETAIL,CO,702,Toallas y salida de baño,554,toallas-y-salida-de-baño,False,3,True,Category Tree - CO / Decoración y hogar / Baños / Toallas y salida de baño
+703,RETAIL,CO,703,Gabinetes y botiquines de baño,554,gabinetes-y-botiquines-de-baño,False,3,True,Category Tree - CO / Decoración y hogar / Baños / Gabinetes y botiquines de baño
+706,RETAIL,CO,706,Cocción y horneado,556,cocción-y-horneado,False,3,True,Category Tree - CO / Decoración y hogar / Cocina / Cocción y horneado
+707,RETAIL,CO,707,Grifería Cocina,556,grifería-cocina,False,3,True,Category Tree - CO / Decoración y hogar / Cocina / Grifería Cocina
+708,RETAIL,CO,708,Utensilios de Cocina,556,utensilios-de-cocina,False,3,True,Category Tree - CO / Decoración y hogar / Cocina / Utensilios de Cocina
+709,RETAIL,CO,709,Utensilios de repostería,556,utensilios-de-repostería,False,3,True,Category Tree - CO / Decoración y hogar / Cocina / Utensilios de repostería
+710,RETAIL,CO,710,Vajilla y Cubertería,556,vajilla-y-cubertería,False,3,True,Category Tree - CO / Decoración y hogar / Cocina / Vajilla y Cubertería
+711,RETAIL,CO,711,Cuadros y Arte de pared,557,cuadros-y-arte-de-pared,False,3,True,Category Tree - CO / Decoración y hogar / Decoración del hogar / Cuadros y Arte de pared
+713,RETAIL,CO,713,Decoración De Mesa,557,decoración-de-mesa,False,3,True,Category Tree - CO / Decoración y hogar / Decoración del hogar / Decoración De Mesa
+714,RETAIL,CO,714,Espejos y Tocadores,558,espejos-y-tocadores,False,3,True,Category Tree - CO / Decoración y hogar / Dormitorio / Espejos y Tocadores
+715,RETAIL,CO,715,Relojes de pared y Mesa,557,relojes-de-pared-y-mesa,False,3,True,Category Tree - CO / Decoración y hogar / Decoración del hogar / Relojes de pared y Mesa
+716,RETAIL,CO,716,Tapetes y Alfombras,557,tapetes-y-alfombras,False,3,True,Category Tree - CO / Decoración y hogar / Decoración del hogar / Tapetes y Alfombras
+717,RETAIL,CO,717,Papel decorativo y Vinilos Adhesivos,557,papel-decorativo-y-vinilos-adhesivos,False,3,True,Category Tree - CO / Decoración y hogar / Decoración del hogar / Papel decorativo y Vinilos Adhesivos
+718,RETAIL,CO,718,Almohadas,558,almohadas,False,3,True,Category Tree - CO / Decoración y hogar / Dormitorio / Almohadas
+719,RETAIL,CO,719,Colchones,558,colchones,False,3,True,Category Tree - CO / Decoración y hogar / Dormitorio / Colchones
+720,RETAIL,CO,720,Cojines y Cuñas,1256,cojines-y-cuñas,False,3,True,Category Tree - CO / Bebés y niños / Dormitorio del Bebé / Cojines y Cuñas
+723,RETAIL,CO,723,Ropa de cama,558,ropa-de-cama,False,3,True,Category Tree - CO / Decoración y hogar / Dormitorio / Ropa de cama
+725,RETAIL,CO,725,"Aspiradoras, brilladoras e hidrolavadoras",559,aspiradoras-brilladoras-e-hidrolavadoras,False,3,True,"Category Tree - CO / Decoración y hogar / Electromenor / Aspiradoras, brilladoras e hidrolavadoras"
+727,RETAIL,CO,727,Lavadoras y secadoras,1237,lavadoras-y-secadoras,False,3,True,Category Tree - CO / Decoración y hogar / Linea Blanca / Lavadoras y secadoras
+728,RETAIL,CO,728,Refrigeración,1237,refrigeración,False,3,True,Category Tree - CO / Decoración y hogar / Linea Blanca / Refrigeración
+730,RETAIL,CO,730,Camas y cabeceras,561,camas-y-cabeceras,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Camas y cabeceras
+731,RETAIL,CO,731,Libreros y Bibliotecas,561,libreros-y-bibliotecas,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Libreros y Bibliotecas
+732,RETAIL,CO,732,Mesas de comedor y antecomedor,561,mesas-de-comedor-y-antecomedor,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Mesas de comedor y antecomedor
+733,RETAIL,CO,733,Mesas de centro y auxiliares,561,mesas-de-centro-y-auxiliares,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Mesas de centro y auxiliares
+734,RETAIL,CO,734,Muebles para almacenar,561,muebles-para-almacenar,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Muebles para almacenar
+735,RETAIL,CO,735,Centro de Entretenimiento,561,centro-de-entretenimiento,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Centro de Entretenimiento
+737,RETAIL,CO,737,Sillas,561,sillas,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Sillas
+739,RETAIL,CO,739,Sofas y Sofacamas,561,sofas-y-sofacamas,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Sofas y Sofacamas
+741,RETAIL,CO,741,Bolsas al vacío y Selladores,562,bolsas-al-vacío-y-selladores,False,3,True,Category Tree - CO / Decoración y hogar / Organizadores / Bolsas al vacío y Selladores
+742,RETAIL,CO,742,Cajas y Cestas,562,cajas-y-cestas,False,3,True,Category Tree - CO / Decoración y hogar / Organizadores / Cajas y Cestas
+743,RETAIL,CO,743,Organizadores de escritorio,562,organizadores-de-escritorio,False,3,True,Category Tree - CO / Decoración y hogar / Organizadores / Organizadores de escritorio
+744,RETAIL,CO,744,Organizadores de ropa,562,organizadores-de-ropa,False,3,True,Category Tree - CO / Decoración y hogar / Organizadores / Organizadores de ropa
+745,RETAIL,CO,745,Organizadores para cocina,562,organizadores-para-cocina,False,3,True,Category Tree - CO / Decoración y hogar / Organizadores / Organizadores para cocina
+746,RETAIL,CO,746,Alarmas y sensores,695,alarmas-y-sensores,False,3,True,Category Tree - CO / Decoración y hogar / Seguridad / Alarmas y sensores
+747,RETAIL,CO,747,Cajas de Seguridad,695,cajas-de-seguridad,False,3,True,Category Tree - CO / Decoración y hogar / Seguridad / Cajas de Seguridad
+748,RETAIL,CO,748,Candados,695,candados,False,3,True,Category Tree - CO / Decoración y hogar / Seguridad / Candados
+749,RETAIL,CO,749,Cerraduras y Videoportero,695,cerraduras-y-videoportero,False,3,True,Category Tree - CO / Decoración y hogar / Seguridad / Cerraduras y Videoportero
+751,RETAIL,CO,751,Sistemas de monitoreo,695,sistemas-de-monitoreo,False,3,True,Category Tree - CO / Decoración y hogar / Seguridad / Sistemas de monitoreo
+753,RETAIL,CO,753,Cojines y Accesorios,557,cojines-y-accesorios,False,3,True,Category Tree - CO / Decoración y hogar / Decoración del hogar / Cojines y Accesorios
+754,RETAIL,CO,754,Cortinas y persianas,696,cortinas-y-persianas,False,3,True,Category Tree - CO / Decoración y hogar / Textiles de hogar y cortinas / Cortinas y persianas
+755,RETAIL,CO,755,Mantelería,696,mantelería,False,3,True,Category Tree - CO / Decoración y hogar / Textiles de hogar y cortinas / Mantelería
+758,RETAIL,CO,758,Baloncesto,522,baloncesto,False,3,True,Category Tree - CO / Deportes y fitness / Otros Deportes / Baloncesto
+760,RETAIL,CO,760,Beisbol y Sóftbol,522,beisbol-y-sóftbol,False,3,True,Category Tree - CO / Deportes y fitness / Otros Deportes / Beisbol y Sóftbol
+770,RETAIL,CO,770,Ping Pong,522,ping-pong,False,3,True,Category Tree - CO / Deportes y fitness / Otros Deportes / Ping Pong
+775,RETAIL,CO,775,Accesorios Camping,523,accesorios-camping,False,3,True,Category Tree - CO / Deportes y fitness / Camping Y Outdoor / Accesorios Camping
+776,RETAIL,CO,776,Camelbag y bolsos para camping,523,camelbag-y-bolsos-para-camping,False,3,True,Category Tree - CO / Deportes y fitness / Camping Y Outdoor / Camelbag y bolsos para camping
+777,RETAIL,CO,777,Carpas,523,carpas,False,3,True,Category Tree - CO / Deportes y fitness / Camping Y Outdoor / Carpas
+778,RETAIL,CO,778,Sleeping Bags y Colchones Inflables,523,sleeping-bags-y-colchones-inflables,False,3,True,Category Tree - CO / Deportes y fitness / Camping Y Outdoor / Sleeping Bags y Colchones Inflables
+780,RETAIL,CO,780,"Mancuernas, pesas y Kits",1297,mancuernas-pesas-y-kits,False,3,True,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates / Mancuernas, pesas y Kits"
+782,RETAIL,CO,782,Piscinas inflables y accesorios,572,piscinas-inflables-y-accesorios,False,3,True,Category Tree - CO / Ferretería y jardín / Aire Libre / Piscinas inflables y accesorios
+783,RETAIL,CO,783,Implementos de jardinería,576,implementos-de-jardinería,False,3,True,Category Tree - CO / Ferretería y jardín / Jardinería / Implementos de jardinería
+784,RETAIL,CO,784,Hornos y asadores,572,hornos-y-asadores,False,3,True,Category Tree - CO / Ferretería y jardín / Aire Libre / Hornos y asadores
+785,RETAIL,CO,785,Muebles de exterior,572,muebles-de-exterior,False,3,True,Category Tree - CO / Ferretería y jardín / Aire Libre / Muebles de exterior
+786,RETAIL,CO,786,Riego,576,riego,False,3,True,Category Tree - CO / Ferretería y jardín / Jardinería / Riego
+788,RETAIL,CO,788,"Sombrillas, gazebos y toldos",572,sombrillas-gazebos-y-toldos,False,3,True,"Category Tree - CO / Ferretería y jardín / Aire Libre / Sombrillas, gazebos y toldos"
+789,RETAIL,CO,789,Cemento Y Complementos,574,cemento-y-complementos,False,3,True,Category Tree - CO / Ferretería y jardín / Ferretería / Cemento Y Complementos
+790,RETAIL,CO,790,Herramientas,574,herramientas,False,3,True,Category Tree - CO / Ferretería y jardín / Ferretería / Herramientas
+791,RETAIL,CO,791,Aerosoles y pinturas,574,aerosoles-y-pinturas,False,3,True,Category Tree - CO / Ferretería y jardín / Ferretería / Aerosoles y pinturas
+792,RETAIL,CO,792,Focos,575,focos,False,3,True,Category Tree - CO / Ferretería y jardín / Iluminación y eléctricos / Focos
+793,RETAIL,CO,793,Linternas y reflectores,575,linternas-y-reflectores,False,3,True,Category Tree - CO / Ferretería y jardín / Iluminación y eléctricos / Linternas y reflectores
+796,RETAIL,CO,796,Tiras de LED,575,tiras-de-led,False,3,True,Category Tree - CO / Ferretería y jardín / Iluminación y eléctricos / Tiras de LED
+797,RETAIL,CO,797,Cultivos y plantas agrícolas,576,cultivos-y-plantas-agrícolas,False,3,True,Category Tree - CO / Ferretería y jardín / Jardinería / Cultivos y plantas agrícolas
+798,RETAIL,CO,798,Decoración y Materas,576,decoración-y-materas,False,3,True,Category Tree - CO / Ferretería y jardín / Jardinería / Decoración y Materas
+799,RETAIL,CO,799,"Fertilizantes, herbicidas y insecticidas",576,fertilizantes-herbicidas-y-insecticidas,False,3,True,"Category Tree - CO / Ferretería y jardín / Jardinería / Fertilizantes, herbicidas y insecticidas"
+800,RETAIL,CO,800,Herramientas,576,herramientas,False,3,True,Category Tree - CO / Ferretería y jardín / Jardinería / Herramientas
+801,RETAIL,CO,801,Bombas y Globos,582,bombas-y-globos,False,3,True,Category Tree - CO / Fiestas y piñatas / Decoración para fiestas / Bombas y Globos
+802,RETAIL,CO,802,Halloween,582,halloween,False,3,True,Category Tree - CO / Fiestas y piñatas / Decoración para fiestas / Halloween
+804,RETAIL,CO,804,Maquillaje,583,maquillaje,False,3,True,Category Tree - CO / Fiestas y piñatas / Disfraces / Maquillaje
+805,RETAIL,CO,805,Mascaras,583,mascaras,False,3,True,Category Tree - CO / Fiestas y piñatas / Disfraces / Mascaras
+809,RETAIL,CO,809,Arreglos Artificiales,806,arreglos-artificiales,False,3,True,Category Tree - CO / Flores y Plantas / Arreglos y Flores / Arreglos Artificiales
+810,RETAIL,CO,810,Cajas florales,806,cajas-florales,False,3,True,Category Tree - CO / Flores y Plantas / Arreglos y Flores / Cajas florales
+811,RETAIL,CO,811,Arreglos Frutales,806,arreglos-frutales,False,3,True,Category Tree - CO / Flores y Plantas / Arreglos y Flores / Arreglos Frutales
+812,RETAIL,CO,812,Ramos y bouquets,806,ramos-y-bouquets,False,3,True,Category Tree - CO / Flores y Plantas / Arreglos y Flores / Ramos y bouquets
+813,RETAIL,CO,813,Coronas florales,806,coronas-florales,False,3,True,Category Tree - CO / Flores y Plantas / Arreglos y Flores / Coronas florales
+814,RETAIL,CO,814,Tapetes absorbentes para Mascotas,446,tapetes-absorbentes-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Tapetes absorbentes para Mascotas
+815,RETAIL,CO,815,Agua Natural Gasificada,25,agua-natural-gasificada,False,3,True,Category Tree - CO / Bebidas / Aguas / Agua Natural Gasificada
+818,RETAIL,CO,818,Antidiabéticos Orales,860,antidiabéticos-orales,False,3,True,Category Tree - CO / Farmacia / Medicamentos para la Diabetes / Antidiabéticos Orales
+819,RETAIL,CO,819,Medicamentos Hormonales,322,medicamentos-hormonales,False,3,True,Category Tree - CO / Farmacia / Otros medicamentos / Medicamentos Hormonales
+823,RETAIL,CO,823,Repelentes para Mascotas,446,repelentes-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Repelentes para Mascotas
+824,RETAIL,CO,824,Césped para Mascotas,446,césped-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Césped para Mascotas
+825,RETAIL,CO,825,Cámaras para mascotas,820,cámaras-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Tecnología para mascotas / Cámaras para mascotas
+826,RETAIL,CO,826,GPS y seguimiento de actividad de mascotas,820,gps-y-seguimiento-de-actividad-de-mascotas,False,3,True,Category Tree - CO / Mascotas / Tecnología para mascotas / GPS y seguimiento de actividad de mascotas
+827,RETAIL,CO,827,Aperitivos,34,aperitivos,False,3,True,Category Tree - CO / Bebidas / Licores y aperitivos / Aperitivos
+828,RETAIL,CO,828,Pulseras y Tobilleras,816,pulseras-y-tobilleras,False,3,True,Category Tree - CO / Moda / Joyería / Pulseras y Tobilleras
+829,RETAIL,CO,829,Collares y Cadenas,816,collares-y-cadenas,False,3,True,Category Tree - CO / Moda / Joyería / Collares y Cadenas
+830,RETAIL,CO,830,Anillos,816,anillos,False,3,True,Category Tree - CO / Moda / Joyería / Anillos
+831,RETAIL,CO,831,Aretes y Earcuff,816,aretes-y-earcuff,False,3,True,Category Tree - CO / Moda / Joyería / Aretes y Earcuff
+833,RETAIL,CO,833,Pañales y forros para Mascotas,446,pañales-y-forros-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Pañales y forros para Mascotas
+834,RETAIL,CO,834,Tapabocas y Accesorios,342,tapabocas-y-accesorios,False,3,True,Category Tree - CO / Farmacia / Mundo COVID / Tapabocas y Accesorios
+836,RETAIL,CO,836,Spray anti-marcas para Mascotas,446,spray-anti-marcas-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Spray anti-marcas para Mascotas
+837,RETAIL,CO,837,Seltzers,835,seltzers,False,3,True,Category Tree - CO / Bebidas / Ready to Drink / Seltzers
+839,RETAIL,CO,839,Sistema Nervioso,322,sistema-nervioso,False,3,True,Category Tree - CO / Farmacia / Otros medicamentos / Sistema Nervioso
+840,RETAIL,CO,840,Pañitos Húmedos para Mascotas,446,pañitos-húmedos-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Pañitos Húmedos para Mascotas
+841,RETAIL,CO,841,Antipulgas y Antigarrapatas,447,antipulgas-y-antigarrapatas,False,3,True,Category Tree - CO / Mascotas / Medicamentos / Antipulgas y Antigarrapatas
+842,RETAIL,CO,842,Bolsos y carteras,838,bolsos-y-carteras,False,3,True,Category Tree - CO / Moda / Bolsos y maletas / Bolsos y carteras
+843,RETAIL,CO,843,"Mochilas, Morrales y Tulas",838,mochilas-morrales-y-tulas,False,3,True,"Category Tree - CO / Moda / Bolsos y maletas / Mochilas, Morrales y Tulas"
+845,RETAIL,CO,845,Recogedores para Mascotas,446,recogedores-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Recogedores para Mascotas
+846,RETAIL,CO,846,Dispensadores de bolsas para Mascotas,446,dispensadores-de-bolsas-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Dispensadores de bolsas para Mascotas
+847,RETAIL,CO,847,Jabones para Mascotas,821,jabones-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Limpieza y Cuidado / Jabones para Mascotas
+848,RETAIL,CO,848,Cepillos y peines para mascotas,821,cepillos-y-peines-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Limpieza y Cuidado / Cepillos y peines para mascotas
+849,RETAIL,CO,849,Lociones y perfumes de mascotas,821,lociones-y-perfumes-de-mascotas,False,3,True,Category Tree - CO / Mascotas / Limpieza y Cuidado / Lociones y perfumes de mascotas
+850,RETAIL,CO,850,Corta uñas de mascotas,821,corta-uñas-de-mascotas,False,3,True,Category Tree - CO / Mascotas / Limpieza y Cuidado / Corta uñas de mascotas
+852,RETAIL,CO,852,Calzoncillos y boxers,844,calzoncillos-y-boxers,False,3,True,Category Tree - CO / Moda / Ropa interior / Calzoncillos y boxers
+853,RETAIL,CO,853,Sostenes y Brasieres,844,sostenes-y-brasieres,False,3,True,Category Tree - CO / Moda / Ropa interior / Sostenes y Brasieres
+854,RETAIL,CO,854,Calzones y Panties,844,calzones-y-panties,False,3,True,Category Tree - CO / Moda / Ropa interior / Calzones y Panties
+855,RETAIL,CO,855,Preservadas,806,preservadas,False,3,True,Category Tree - CO / Flores y Plantas / Arreglos y Flores / Preservadas
+856,RETAIL,CO,856,Snacks para Mascotas,445,snacks-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Alimento para mascotas / Snacks para Mascotas
+857,RETAIL,CO,857,Lencería,844,lencería,False,3,True,Category Tree - CO / Moda / Ropa interior / Lencería
+859,RETAIL,CO,859,Cloro,401,cloro,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Limpieza / Cloro
+861,RETAIL,CO,861,Otras joyas,816,otras-joyas,False,3,True,Category Tree - CO / Moda / Joyería / Otras joyas
+862,RETAIL,CO,862,Cardiovascular e Hipertensión,322,cardiovascular-e-hipertensión,False,3,True,Category Tree - CO / Farmacia / Otros medicamentos / Cardiovascular e Hipertensión
+863,RETAIL,CO,863,Bolsas plásticas para Mascotas,446,bolsas-plásticas-para-mascotas,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Bolsas plásticas para Mascotas
+864,RETAIL,CO,864,Antidepresivos,322,antidepresivos,False,3,True,Category Tree - CO / Farmacia / Otros medicamentos / Antidepresivos
+866,RETAIL,CO,866,Bonsái,808,bonsái,False,3,True,Category Tree - CO / Flores y Plantas / Plantas / Bonsái
+867,RETAIL,CO,867,Suculentas y cactus,808,suculentas-y-cactus,False,3,True,Category Tree - CO / Flores y Plantas / Plantas / Suculentas y cactus
+869,RETAIL,CO,869,Otras plantas,808,otras-plantas,False,3,True,Category Tree - CO / Flores y Plantas / Plantas / Otras plantas
+870,RETAIL,CO,870,Arte y Arquitectura,1416,arte-y-arquitectura,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Profesionales y Especializados / Arte y Arquitectura"
+871,RETAIL,CO,871,Ciencia e Ingeniería,1416,ciencia-e-ingeniería,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Profesionales y Especializados / Ciencia e Ingeniería"
+872,RETAIL,CO,872,Ciencias sociales y humanas,1416,ciencias-sociales-y-humanas,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Profesionales y Especializados / Ciencias sociales y humanas"
+874,RETAIL,CO,874,Economía y Negocios,1416,economía-y-negocios,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Profesionales y Especializados / Economía y Negocios"
+875,RETAIL,CO,875,Libros infantiles,533,libros-infantiles,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Literatura / Libros infantiles"
+876,RETAIL,CO,876,"Novelas, cuentos y ficción",533,novelas-cuentos-y-ficción,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Literatura / Novelas, cuentos y ficción"
+877,RETAIL,CO,877,Otros Literatura,533,otros-literatura,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Literatura / Otros Literatura"
+878,RETAIL,CO,878,Libros Guía,1413,libros-guía,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Textos Escolares / Libros Guía"
+879,RETAIL,CO,879,Acuarios y accesorios,444,acuarios-y-accesorios,False,3,True,Category Tree - CO / Mascotas / Accesorios mascotas / Acuarios y accesorios
+880,RETAIL,CO,880,"Casas, camas y mantas",444,casas-camas-y-mantas,False,3,True,"Category Tree - CO / Mascotas / Accesorios mascotas / Casas, camas y mantas"
+881,RETAIL,CO,881,Jaulas y Accesorios,444,jaulas-y-accesorios,False,3,True,Category Tree - CO / Mascotas / Accesorios mascotas / Jaulas y Accesorios
+882,RETAIL,CO,882,Ropa y accesorios,444,ropa-y-accesorios,False,3,True,Category Tree - CO / Mascotas / Accesorios mascotas / Ropa y accesorios
+883,RETAIL,CO,883,Alimento para aves,445,alimento-para-aves,False,3,True,Category Tree - CO / Mascotas / Alimento para mascotas / Alimento para aves
+884,RETAIL,CO,884,Arenera para Gatos,446,arenera-para-gatos,False,3,True,Category Tree - CO / Mascotas / Aseo para mascotas / Arenera para Gatos
+885,RETAIL,CO,885,Antiparasitos,447,antiparasitos,False,3,True,Category Tree - CO / Mascotas / Medicamentos / Antiparasitos
+886,RETAIL,CO,886,Suplementos y vitaminas,447,suplementos-y-vitaminas,False,3,True,Category Tree - CO / Mascotas / Medicamentos / Suplementos y vitaminas
+887,RETAIL,CO,887,Termometros,447,termometros,False,3,True,Category Tree - CO / Mascotas / Medicamentos / Termometros
+895,RETAIL,CO,895,"Billeteras, Monederos y Tarjeteros",888,billeteras-monederos-y-tarjeteros,False,3,True,"Category Tree - CO / Moda / Accesorios de moda / Billeteras, Monederos y Tarjeteros"
+896,RETAIL,CO,896,"Gorros, Gorras y Sombreros",888,gorros-gorras-y-sombreros,False,3,True,"Category Tree - CO / Moda / Accesorios de moda / Gorros, Gorras y Sombreros"
+900,RETAIL,CO,900,Zapatos bebés,890,zapatos-bebés,False,3,True,Category Tree - CO / Moda / Bebés / Zapatos bebés
+903,RETAIL,CO,903,Botas y Botines,891,botas-y-botines,False,3,True,Category Tree - CO / Moda / Calzados / Botas y Botines
+906,RETAIL,CO,906,Mocasines,891,mocasines,False,3,True,Category Tree - CO / Moda / Calzados / Mocasines
+907,RETAIL,CO,907,Pantuflas,891,pantuflas,False,3,True,Category Tree - CO / Moda / Calzados / Pantuflas
+908,RETAIL,CO,908,Sandalias y Chanclas,891,sandalias-y-chanclas,False,3,True,Category Tree - CO / Moda / Calzados / Sandalias y Chanclas
+909,RETAIL,CO,909,Tenis,891,tenis,False,3,True,Category Tree - CO / Moda / Calzados / Tenis
+910,RETAIL,CO,910,Tacones,891,tacones,False,3,True,Category Tree - CO / Moda / Calzados / Tacones
+915,RETAIL,CO,915,Abrigos y Ropa exterior,893,abrigos-y-ropa-exterior,False,3,True,Category Tree - CO / Moda / Ropa / Abrigos y Ropa exterior
+916,RETAIL,CO,916,"Camisas, camisetas y blusas",893,camisas-camisetas-y-blusas,False,3,True,"Category Tree - CO / Moda / Ropa / Camisas, camisetas y blusas"
+918,RETAIL,CO,918,Pantalones y jeans,893,pantalones-y-jeans,False,3,True,Category Tree - CO / Moda / Ropa / Pantalones y jeans
+919,RETAIL,CO,919,Pijamas,893,pijamas,False,3,True,Category Tree - CO / Moda / Ropa / Pijamas
+920,RETAIL,CO,920,Polos,893,polos,False,3,True,Category Tree - CO / Moda / Ropa / Polos
+923,RETAIL,CO,923,Shorts y bermudas,893,shorts-y-bermudas,False,3,True,Category Tree - CO / Moda / Ropa / Shorts y bermudas
+924,RETAIL,CO,924,Trajes formales,893,trajes-formales,False,3,True,Category Tree - CO / Moda / Ropa / Trajes formales
+925,RETAIL,CO,925,"Vestidos, enterizos y conjuntos",893,vestidos-enterizos-y-conjuntos,False,3,True,"Category Tree - CO / Moda / Ropa / Vestidos, enterizos y conjuntos"
+929,RETAIL,CO,929,Accesorios para instrumento,927,accesorios-para-instrumento,False,3,True,Category Tree - CO / Música e instrumentos / Accesorios musicales / Accesorios para instrumento
+930,RETAIL,CO,930,Atriles y soportes,927,atriles-y-soportes,False,3,True,Category Tree - CO / Música e instrumentos / Accesorios musicales / Atriles y soportes
+931,RETAIL,CO,931,Limpieza y mantenimiento,927,limpieza-y-mantenimiento,False,3,True,Category Tree - CO / Música e instrumentos / Accesorios musicales / Limpieza y mantenimiento
+932,RETAIL,CO,932,Sordinas,927,sordinas,False,3,True,Category Tree - CO / Música e instrumentos / Accesorios musicales / Sordinas
+933,RETAIL,CO,933,Guitara,545,guitara,False,3,True,Category Tree - CO / Música e instrumentos / Cuerdas / Guitara
+935,RETAIL,CO,935,Otra percusiones,928,otra-percusiones,False,3,True,Category Tree - CO / Música e instrumentos / Percusion / Otra percusiones
+936,RETAIL,CO,936,Tambor,928,tambor,False,3,True,Category Tree - CO / Música e instrumentos / Percusion / Tambor
+937,RETAIL,CO,937,Xilófono,928,xilófono,False,3,True,Category Tree - CO / Música e instrumentos / Percusion / Xilófono
+939,RETAIL,CO,939,Piano,547,piano,False,3,True,Category Tree - CO / Música e instrumentos / Teclados / Piano
+940,RETAIL,CO,940,Flauta,548,flauta,False,3,True,Category Tree - CO / Música e instrumentos / Vientos / Flauta
+943,RETAIL,CO,943,Insumos de Impresión,596,insumos-de-impresión,False,3,True,Category Tree - CO / Tecnología / Impresión e Insumos / Insumos de Impresión
+947,RETAIL,CO,947,Agendas y Libretas,597,agendas-y-libretas,False,3,True,Category Tree - CO / Papelería y oficina / Cuadernos y Apuntes / Agendas y Libretas
+948,RETAIL,CO,948,Cuadernos,597,cuadernos,False,3,True,Category Tree - CO / Papelería y oficina / Cuadernos y Apuntes / Cuadernos
+951,RETAIL,CO,951,Lienzos y Caballetes,598,lienzos-y-caballetes,False,3,True,Category Tree - CO / Arte y Manualidades / Pintura / Lienzos y Caballetes
+952,RETAIL,CO,952,Paletas y Esponjas,598,paletas-y-esponjas,False,3,True,Category Tree - CO / Arte y Manualidades / Pintura / Paletas y Esponjas
+954,RETAIL,CO,954,Cartones,942,cartones,False,3,True,Category Tree - CO / Papelería y oficina / Papelería / Cartones
+955,RETAIL,CO,955,Cartulinas,942,cartulinas,False,3,True,Category Tree - CO / Papelería y oficina / Papelería / Cartulinas
+956,RETAIL,CO,956,Papeles,942,papeles,False,3,True,Category Tree - CO / Papelería y oficina / Papelería / Papeles
+959,RETAIL,CO,959,Otros Papelería,942,otros-papelería,False,3,True,Category Tree - CO / Papelería y oficina / Papelería / Otros Papelería
+963,RETAIL,CO,963,Accesorios De Escritorio,599,accesorios-de-escritorio,False,3,True,Category Tree - CO / Papelería y oficina / Suministros de oficina / Accesorios De Escritorio
+964,RETAIL,CO,964,Artículos De Archivo-Oficina,599,artículos-de-archivo-oficina,False,3,True,Category Tree - CO / Papelería y oficina / Suministros de oficina / Artículos De Archivo-Oficina
+980,RETAIL,CO,980,Parlantes o bocinas,612,parlantes-o-bocinas,False,3,True,Category Tree - CO / Tecnología / Audio y sonido / Parlantes o bocinas
+981,RETAIL,CO,981,Audifonos,612,audifonos,False,3,True,Category Tree - CO / Tecnología / Audio y sonido / Audifonos
+982,RETAIL,CO,982,Equipos de Sonido,612,equipos-de-sonido,False,3,True,Category Tree - CO / Tecnología / Audio y sonido / Equipos de Sonido
+983,RETAIL,CO,983,Radios,612,radios,False,3,True,Category Tree - CO / Tecnología / Audio y sonido / Radios
+984,RETAIL,CO,984,"CD, DVD",1135,cd-dvd,False,3,True,"Category Tree - CO / Música e instrumentos / Música / CD, DVD"
+985,RETAIL,CO,985,Teatros en Casa y Barras,612,teatros-en-casa-y-barras,False,3,True,Category Tree - CO / Tecnología / Audio y sonido / Teatros en Casa y Barras
+987,RETAIL,CO,987,Accesorios,613,accesorios,False,3,True,Category Tree - CO / Tecnología / Cámaras / Accesorios
+988,RETAIL,CO,988,Cámaras de Acción,613,cámaras-de-acción,False,3,True,Category Tree - CO / Tecnología / Cámaras / Cámaras de Acción
+990,RETAIL,CO,990,Drones,1130,drones,False,3,True,Category Tree - CO / Tecnología / Drones / Drones
+998,RETAIL,CO,998,Licencias y Antivirus,614,licencias-y-antivirus,False,3,True,Category Tree - CO / Tecnología / Computadores / Licencias y Antivirus
+999,RETAIL,CO,999,Computadores de escritorio,614,computadores-de-escritorio,False,3,True,Category Tree - CO / Tecnología / Computadores / Computadores de escritorio
+1000,RETAIL,CO,1000,Computadores portátiles,614,computadores-portátiles,False,3,True,Category Tree - CO / Tecnología / Computadores / Computadores portátiles
+1002,RETAIL,CO,1002,Impresoras y Multifuncionales,596,impresoras-y-multifuncionales,False,3,True,Category Tree - CO / Tecnología / Impresión e Insumos / Impresoras y Multifuncionales
+1003,RETAIL,CO,1003,Monitores,614,monitores,False,3,True,Category Tree - CO / Tecnología / Computadores / Monitores
+1004,RETAIL,CO,1004,Escáner,596,escáner,False,3,True,Category Tree - CO / Tecnología / Impresión e Insumos / Escáner
+1005,RETAIL,CO,1005,Mandos y Volantes Gaming,615,mandos-y-volantes-gaming,False,3,True,Category Tree - CO / Tecnología / Gaming / Mandos y Volantes Gaming
+1006,RETAIL,CO,1006,Videojuegos,615,videojuegos,False,3,True,Category Tree - CO / Tecnología / Gaming / Videojuegos
+1008,RETAIL,CO,1008,Celulares,617,celulares,False,3,True,Category Tree - CO / Tecnología / Celulares y Telefonía / Celulares
+1009,RETAIL,CO,1009,Smartwatch y Smartband,617,smartwatch-y-smartband,False,3,True,Category Tree - CO / Tecnología / Celulares y Telefonía / Smartwatch y Smartband
+1010,RETAIL,CO,1010,Tablets,614,tablets,False,3,True,Category Tree - CO / Tecnología / Computadores / Tablets
+1012,RETAIL,CO,1012,Blu-Ray & Películas DVD,618,blu-ray-películas-dvd,False,3,True,Category Tree - CO / Tecnología / Televisión y video / Blu-Ray & Películas DVD
+1013,RETAIL,CO,1013,Televisores,618,televisores,False,3,True,Category Tree - CO / Tecnología / Televisión y video / Televisores
+1014,RETAIL,CO,1014,Cambiadores,1256,cambiadores,False,3,True,Category Tree - CO / Bebés y niños / Dormitorio del Bebé / Cambiadores
+1015,RETAIL,CO,1015,Otros Aceites y vinagres,145,otros-aceites-y-vinagres,False,3,True,Category Tree - CO / Despensa y productos secos / Aceites y vinagres / Otros Aceites y vinagres
+1016,RETAIL,CO,1016,"Otros Arroz, granos y pastas",148,otros-arroz-granos-y-pastas,False,3,True,"Category Tree - CO / Despensa y productos secos / Arroz, granos y pastas / Otros Arroz, granos y pastas"
+1017,RETAIL,CO,1017,Otros Azúcar y endulzantes,149,otros-azúcar-y-endulzantes,False,3,True,Category Tree - CO / Despensa y productos secos / Azúcar y endulzantes / Otros Azúcar y endulzantes
+1018,RETAIL,CO,1018,"Otros Café, infusiones y modificadores de leche",150,otros-café-infusiones-y-modificadores-de-leche,False,3,True,"Category Tree - CO / Despensa y productos secos / Café, infusiones y modificadores de leche / Otros Café, infusiones y modificadores de leche"
+1019,RETAIL,CO,1019,Otros Cafés y tés listos para beber,27,otros-cafés-y-tés-listos-para-beber,False,3,True,Category Tree - CO / Bebidas / Cafés y tés listos para beber / Otros Cafés y tés listos para beber
+1020,RETAIL,CO,1020,Otros Caldos y sopas,151,otros-caldos-y-sopas,False,3,True,Category Tree - CO / Despensa y productos secos / Caldos y sopas / Otros Caldos y sopas
+1021,RETAIL,CO,1021,"Otros Cereales, avenas y granola",152,otros-cereales-avenas-y-granola,False,3,True,"Category Tree - CO / Despensa y productos secos / Cereales, avenas y granola / Otros Cereales, avenas y granola"
+1022,RETAIL,CO,1022,Otros Cervezas y sidras,28,otros-cervezas-y-sidras,False,3,True,Category Tree - CO / Bebidas / Cervezas y sidras / Otros Cervezas y sidras
+1024,RETAIL,CO,1024,Otros Control de plagas,398,otros-control-de-plagas,False,3,True,Category Tree - CO / Cuidado y limpieza del hogar / Control de plagas / Otros Control de plagas
+1025,RETAIL,CO,1025,Otros Depilación y afeitado,252,otros-depilación-y-afeitado,False,3,True,Category Tree - CO / Cuidado personal / Depilación y afeitado / Otros Depilación y afeitado
+1026,RETAIL,CO,1026,Otros Energéticas e isotónicas,31,otros-energéticas-e-isotónicas,False,3,True,Category Tree - CO / Bebidas / Energéticas e isotónicas / Otros Energéticas e isotónicas
+1027,RETAIL,CO,1027,Otros Equipo y material médico,320,otros-equipo-y-material-médico,False,3,True,Category Tree - CO / Farmacia / Equipo y material médico / Otros Equipo y material médico
+1029,RETAIL,CO,1029,Otros Fórmulas y alimentos,224,otros-fórmulas-y-alimentos,False,3,True,Category Tree - CO / Cuidado del bebé / Fórmulas y alimentos / Otros Fórmulas y alimentos
+1033,RETAIL,CO,1033,Otros Jugos y néctares,33,otros-jugos-y-néctares,False,3,True,Category Tree - CO / Bebidas / Jugos y néctares / Otros Jugos y néctares
+1034,RETAIL,CO,1034,Otros Lactancia y accesorios,226,otros-lactancia-y-accesorios,False,3,True,Category Tree - CO / Cuidado del bebé / Lactancia y accesorios / Otros Lactancia y accesorios
+1036,RETAIL,CO,1036,Otros Mermeladas y pastas para untar,156,otros-mermeladas-y-pastas-para-untar,False,3,True,Category Tree - CO / Despensa y productos secos / Mermeladas y pastas para untar / Otros Mermeladas y pastas para untar
+1037,RETAIL,CO,1037,Otros Panadería y pastelería,158,otros-panadería-y-pastelería,False,3,True,Category Tree - CO / Despensa y productos secos / Panadería y pastelería / Otros Panadería y pastelería
+1039,RETAIL,CO,1039,Otros Pañales y toallitas,227,otros-pañales-y-toallitas,False,3,True,Category Tree - CO / Cuidado del bebé / Pañales y toallitas / Otros Pañales y toallitas
+1040,RETAIL,CO,1040,Otros Protección femenina,258,otros-protección-femenina,False,3,True,Category Tree - CO / Cuidado personal / Protección femenina / Otros Protección femenina
+1041,RETAIL,CO,1041,Otros Salud nutricional,326,otros-salud-nutricional,False,3,True,Category Tree - CO / Farmacia / Salud nutricional / Otros Salud nutricional
+1042,RETAIL,CO,1042,Otros Snacks y confitería,146,otros-snacks-y-confitería,False,3,True,Category Tree - CO / Despensa y productos secos / Snacks y confitería / Otros Snacks y confitería
+1045,RETAIL,CO,1045,Otros Medicamentos,447,otros-medicamentos,False,3,True,Category Tree - CO / Mascotas / Medicamentos / Otros Medicamentos
+1046,RETAIL,CO,1046,Otros Disfraces,583,otros-disfraces,False,3,True,Category Tree - CO / Fiestas y piñatas / Disfraces / Otros Disfraces
+1047,RETAIL,CO,1047,Otros Artículos para el baño,649,otros-artículos-para-el-baño,False,3,True,Category Tree - CO / Bebés y niños / Artículos para el baño / Otros Artículos para el baño
+1048,RETAIL,CO,1048,Otros Paseo con el bebé,650,otros-paseo-con-el-bebé,False,3,True,Category Tree - CO / Bebés y niños / Paseo con el bebé / Otros Paseo con el bebé
+1049,RETAIL,CO,1049,Otros Repuestos Carros,675,otros-repuestos-carros,False,3,True,Category Tree - CO / Auto partes / Repuestos Carros / Otros Repuestos Carros
+1050,RETAIL,CO,1050,Otros Seguridad,695,otros-seguridad,False,3,True,Category Tree - CO / Decoración y hogar / Seguridad / Otros Seguridad
+1051,RETAIL,CO,1051,Otros Textiles de hogar y cortinas,696,otros-textiles-de-hogar-y-cortinas,False,3,True,Category Tree - CO / Decoración y hogar / Textiles de hogar y cortinas / Otros Textiles de hogar y cortinas
+1052,RETAIL,CO,1052,Otros Arreglos florales,806,otros-arreglos-florales,False,3,True,Category Tree - CO / Flores y Plantas / Arreglos y Flores / Otros Arreglos florales
+1053,RETAIL,CO,1053,Accesorios para bebés,890,accesorios-para-bebés,False,3,True,Category Tree - CO / Moda / Bebés / Accesorios para bebés
+1055,RETAIL,CO,1055,Otros Accesorios musicales,927,otros-accesorios-musicales,False,3,True,Category Tree - CO / Música e instrumentos / Accesorios musicales / Otros Accesorios musicales
+1058,RETAIL,CO,1058,Medias y calcetines,844,medias-y-calcetines,False,3,True,Category Tree - CO / Moda / Ropa interior / Medias y calcetines
+1059,RETAIL,CO,1059,Relojes,888,relojes,False,3,True,Category Tree - CO / Moda / Accesorios de moda / Relojes
+1060,RETAIL,CO,1060,Cinturones y Reatas,888,cinturones-y-reatas,False,3,True,Category Tree - CO / Moda / Accesorios de moda / Cinturones y Reatas
+1061,RETAIL,CO,1061,Bufandas y pañuelos,888,bufandas-y-pañuelos,False,3,True,Category Tree - CO / Moda / Accesorios de moda / Bufandas y pañuelos
+1064,RETAIL,CO,1064,"Otros Bordado, tejido y costura",1063,otros-bordado-tejido-y-costura,False,3,True,"Category Tree - CO / Arte y Manualidades / Bordado, tejido y costura / Otros Bordado, tejido y costura"
+1066,RETAIL,CO,1066,Otros bisuteria,1065,otros-bisuteria,False,3,True,Category Tree - CO / Arte y Manualidades / Bisuteria / Otros bisuteria
+1069,RETAIL,CO,1069,Hilos,1063,hilos,False,3,True,"Category Tree - CO / Arte y Manualidades / Bordado, tejido y costura / Hilos"
+1070,RETAIL,CO,1070,Agujas,1063,agujas,False,3,True,"Category Tree - CO / Arte y Manualidades / Bordado, tejido y costura / Agujas"
+1071,RETAIL,CO,1071,Lana,1063,lana,False,3,True,"Category Tree - CO / Arte y Manualidades / Bordado, tejido y costura / Lana"
+1072,RETAIL,CO,1072,Telas,1063,telas,False,3,True,"Category Tree - CO / Arte y Manualidades / Bordado, tejido y costura / Telas"
+1075,RETAIL,CO,1075,Piedras,1065,piedras,False,3,True,Category Tree - CO / Arte y Manualidades / Bisuteria / Piedras
+1076,RETAIL,CO,1076,Perlas,1065,perlas,False,3,True,Category Tree - CO / Arte y Manualidades / Bisuteria / Perlas
+1079,RETAIL,CO,1079,Papel,1078,papel,False,3,True,Category Tree - CO / Cigarrillos / Accesorios de cigarrillos / Papel
+1080,RETAIL,CO,1080,Filtros,1078,filtros,False,3,True,Category Tree - CO / Cigarrillos / Accesorios de cigarrillos / Filtros
+1081,RETAIL,CO,1081,Otros accesorios de cigarrillos,1078,otros-accesorios-de-cigarrillos,False,3,True,Category Tree - CO / Cigarrillos / Accesorios de cigarrillos / Otros accesorios de cigarrillos
+1083,RETAIL,CO,1083,Lentes de contacto,328,lentes-de-contacto,False,3,True,Category Tree - CO / Farmacia / Salud visual / Lentes de contacto
+1084,RETAIL,CO,1084,Vendas y Gasas,318,vendas-y-gasas,False,3,True,Category Tree - CO / Farmacia / Botiquín y primeros auxilios / Vendas y Gasas
+1085,RETAIL,CO,1085,Analgésicos infantiles,317,analgésicos-infantiles,False,3,True,Category Tree - CO / Farmacia / Alivio del dolor / Analgésicos infantiles
+1086,RETAIL,CO,1086,Parches y Telas Adhesivas,318,parches-y-telas-adhesivas,False,3,True,Category Tree - CO / Farmacia / Botiquín y primeros auxilios / Parches y Telas Adhesivas
+1087,RETAIL,CO,1087,Insulinas e Inyectables,860,insulinas-e-inyectables,False,3,True,Category Tree - CO / Farmacia / Medicamentos para la Diabetes / Insulinas e Inyectables
+1088,RETAIL,CO,1088,Dolor menstrual,317,dolor-menstrual,False,3,True,Category Tree - CO / Farmacia / Alivio del dolor / Dolor menstrual
+1089,RETAIL,CO,1089,Tratamiento Antiacné,319,tratamiento-antiacné,False,3,True,Category Tree - CO / Farmacia / Cuidado dermatológico / Tratamiento Antiacné
+1090,RETAIL,CO,1090,"Glucómetros, Tiras y Lancetas",320,glucómetros-tiras-y-lancetas,False,3,True,"Category Tree - CO / Farmacia / Equipo y material médico / Glucómetros, Tiras y Lancetas"
+1092,RETAIL,CO,1092,Termómetros,320,termómetros,False,3,True,Category Tree - CO / Farmacia / Equipo y material médico / Termómetros
+1093,RETAIL,CO,1093,Equipos Respiratorios,320,equipos-respiratorios,False,3,True,Category Tree - CO / Farmacia / Equipo y material médico / Equipos Respiratorios
+1094,RETAIL,CO,1094,Vigorizantes,327,vigorizantes,False,3,True,Category Tree - CO / Farmacia / Salud sexual / Vigorizantes
+1098,RETAIL,CO,1098,Camisas,893,camisas,False,3,True,Category Tree - CO / Moda / Ropa / Camisas
+1110,RETAIL,CO,1110,Vinilo,1135,vinilo,False,3,True,Category Tree - CO / Música e instrumentos / Música / Vinilo
+1111,RETAIL,CO,1111,Microfonos,612,microfonos,False,3,True,Category Tree - CO / Tecnología / Audio y sonido / Microfonos
+1112,RETAIL,CO,1112,Cámaras profesionales,613,cámaras-profesionales,False,3,True,Category Tree - CO / Tecnología / Cámaras / Cámaras profesionales
+1114,RETAIL,CO,1114,Consolas,615,consolas,False,3,True,Category Tree - CO / Tecnología / Gaming / Consolas
+1116,RETAIL,CO,1116,Otros gaming,615,otros-gaming,False,3,True,Category Tree - CO / Tecnología / Gaming / Otros gaming
+1117,RETAIL,CO,1117,USB,616,usb,False,3,True,Category Tree - CO / Tecnología / Dispositivos De Almacenamiento / USB
+1118,RETAIL,CO,1118,Otros Dispositivos de Almacenamiento,616,otros-dispositivos-de-almacenamiento,False,3,True,Category Tree - CO / Tecnología / Dispositivos De Almacenamiento / Otros Dispositivos de Almacenamiento
+1119,RETAIL,CO,1119,Disco duro y Unidades Solidas,616,disco-duro-y-unidades-solidas,False,3,True,Category Tree - CO / Tecnología / Dispositivos De Almacenamiento / Disco duro y Unidades Solidas
+1121,RETAIL,CO,1121,Dispositivos de streaming,618,dispositivos-de-streaming,False,3,True,Category Tree - CO / Tecnología / Televisión y video / Dispositivos de streaming
+1122,RETAIL,CO,1122,Pilas,1133,pilas,False,3,True,"Category Tree - CO / Tecnología / Cargadores, Cables y Pilas / Pilas"
+1123,RETAIL,CO,1123,Reguladores y supresores,574,reguladores-y-supresores,False,3,True,Category Tree - CO / Ferretería y jardín / Ferretería / Reguladores y supresores
+1124,RETAIL,CO,1124,Power Bank,1133,power-bank,False,3,True,"Category Tree - CO / Tecnología / Cargadores, Cables y Pilas / Power Bank"
+1125,RETAIL,CO,1125,Extensiones y adaptadores,574,extensiones-y-adaptadores,False,3,True,Category Tree - CO / Ferretería y jardín / Ferretería / Extensiones y adaptadores
+1126,RETAIL,CO,1126,Otros Baterías,1133,otros-baterías,False,3,True,"Category Tree - CO / Tecnología / Cargadores, Cables y Pilas / Otros Baterías"
+1127,RETAIL,CO,1127,Dispositivos de Wifi,614,dispositivos-de-wifi,False,3,True,Category Tree - CO / Tecnología / Computadores / Dispositivos de Wifi
+1136,RETAIL,CO,1136,"Tortillas, tostadas y totopos",158,tortillas-tostadas-y-totopos,False,3,True,"Category Tree - CO / Despensa y productos secos / Panadería y pastelería / Tortillas, tostadas y totopos"
+1137,RETAIL,CO,1137,Pastelitos,158,pastelitos,False,3,True,Category Tree - CO / Despensa y productos secos / Panadería y pastelería / Pastelitos
+1155,RETAIL,CO,1156,Estuches y Fundas,1131,estuches-y-fundas,False,3,True,Category Tree - CO / Tecnología / Accesorios de Tecnología / Estuches y Fundas
+1157,RETAIL,CO,1158,Estabilizadores,1156,estabilizadores,False,3,True,Category Tree - CO / Tecnología / Soportes y Tripodes / Estabilizadores
+1158,RETAIL,CO,1159,Soportes para Televisor,1156,soportes-para-televisor,False,3,True,Category Tree - CO / Tecnología / Soportes y Tripodes / Soportes para Televisor
+1159,RETAIL,CO,1160,Soportes Celular y Tablet,1156,soportes-celular-y-tablet,False,3,True,Category Tree - CO / Tecnología / Soportes y Tripodes / Soportes Celular y Tablet
+1160,RETAIL,CO,1161,Aro de luz,1156,aro-de-luz,False,3,True,Category Tree - CO / Tecnología / Soportes y Tripodes / Aro de luz
+1161,RETAIL,CO,1162,Tripodes,1156,tripodes,False,3,True,Category Tree - CO / Tecnología / Soportes y Tripodes / Tripodes
+1162,RETAIL,CO,1163,Otros Soportes y Tripodes,1156,otros-soportes-y-tripodes,False,3,True,Category Tree - CO / Tecnología / Soportes y Tripodes / Otros Soportes y Tripodes
+1163,RETAIL,CO,1164,Control Remoto,618,control-remoto,False,3,True,Category Tree - CO / Tecnología / Televisión y video / Control Remoto
+1164,RETAIL,CO,1165,Proyectores,618,proyectores,False,3,True,Category Tree - CO / Tecnología / Televisión y video / Proyectores
+1165,RETAIL,CO,1166,Antenas y Decodificadores,618,antenas-y-decodificadores,False,3,True,Category Tree - CO / Tecnología / Televisión y video / Antenas y Decodificadores
+1166,RETAIL,CO,1167,Gafas de Realidad Virtual,615,gafas-de-realidad-virtual,False,3,True,Category Tree - CO / Tecnología / Gaming / Gafas de Realidad Virtual
+1167,RETAIL,CO,1168,Tarjetas de Memoria,616,tarjetas-de-memoria,False,3,True,Category Tree - CO / Tecnología / Dispositivos De Almacenamiento / Tarjetas de Memoria
+1168,RETAIL,CO,1169,Cámaras Web,614,cámaras-web,False,3,True,Category Tree - CO / Tecnología / Computadores / Cámaras Web
+1169,RETAIL,CO,1170,Telefonía Fija e Inalámbrica,617,telefonía-fija-e-inalámbrica,False,3,True,Category Tree - CO / Tecnología / Celulares y Telefonía / Telefonía Fija e Inalámbrica
+1170,RETAIL,CO,1171,Cargadores de Pilas,1133,cargadores-de-pilas,False,3,True,"Category Tree - CO / Tecnología / Cargadores, Cables y Pilas / Cargadores de Pilas"
+1171,RETAIL,CO,1172,Cargadores de Portátil,1133,cargadores-de-portátil,False,3,True,"Category Tree - CO / Tecnología / Cargadores, Cables y Pilas / Cargadores de Portátil"
+1172,RETAIL,CO,1173,Cables,1133,cables,False,3,True,"Category Tree - CO / Tecnología / Cargadores, Cables y Pilas / Cables"
+1173,RETAIL,CO,1174,Cargadores de Cámara,1133,cargadores-de-cámara,False,3,True,"Category Tree - CO / Tecnología / Cargadores, Cables y Pilas / Cargadores de Cámara"
+1174,RETAIL,CO,1175,Lentes,613,lentes,False,3,True,Category Tree - CO / Tecnología / Cámaras / Lentes
+1175,RETAIL,CO,1176,Grabadoras de voz,612,grabadoras-de-voz,False,3,True,Category Tree - CO / Tecnología / Audio y sonido / Grabadoras de voz
+1176,RETAIL,CO,1177,Protectores de Pantalla,1131,protectores-de-pantalla,False,3,True,Category Tree - CO / Tecnología / Accesorios de Tecnología / Protectores de Pantalla
+1177,RETAIL,CO,1178,Adaptadores y Convertidores,1131,adaptadores-y-convertidores,False,3,True,Category Tree - CO / Tecnología / Accesorios de Tecnología / Adaptadores y Convertidores
+1178,RETAIL,CO,1179,Teclados y Mouse,1131,teclados-y-mouse,False,3,True,Category Tree - CO / Tecnología / Accesorios de Tecnología / Teclados y Mouse
+1179,RETAIL,CO,1180,Mouse Pad,1131,mouse-pad,False,3,True,Category Tree - CO / Tecnología / Accesorios de Tecnología / Mouse Pad
+1180,RETAIL,CO,1181,Bases refrigerantes,1131,bases-refrigerantes,False,3,True,Category Tree - CO / Tecnología / Accesorios de Tecnología / Bases refrigerantes
+1181,RETAIL,CO,1182,Otros Accesorios de Tecnología,1131,otros-accesorios-de-tecnología,False,3,True,Category Tree - CO / Tecnología / Accesorios de Tecnología / Otros Accesorios de Tecnología
+1182,RETAIL,CO,1183,Cargadores y Cables de Celular,1133,cargadores-y-cables-de-celular,False,3,True,"Category Tree - CO / Tecnología / Cargadores, Cables y Pilas / Cargadores y Cables de Celular"
+1183,RETAIL,CO,1184,Accesorios Drones,1130,accesorios-drones,False,3,True,Category Tree - CO / Tecnología / Drones / Accesorios Drones
+1184,RETAIL,CO,1185,Otros Ropa Interior,844,otros-ropa-interior,False,3,True,Category Tree - CO / Moda / Ropa interior / Otros Ropa Interior
+1186,RETAIL,CO,1187,Otros Ropa deportiva,1185,otros-ropa-deportiva,False,3,True,Category Tree - CO / Moda / Ropa deportiva / Otros Ropa deportiva
+1188,RETAIL,CO,1189,Otros Trajes de Baño,1187,otros-trajes-de-baño,False,3,True,Category Tree - CO / Moda / Trajes de baño / Otros Trajes de Baño
+1189,RETAIL,CO,1190,Otros Bolsos y maletas,838,otros-bolsos-y-maletas,False,3,True,Category Tree - CO / Moda / Bolsos y maletas / Otros Bolsos y maletas
+1190,RETAIL,CO,1191,Accesorios de Calzado,891,accesorios-de-calzado,False,3,True,Category Tree - CO / Moda / Calzados / Accesorios de Calzado
+1191,RETAIL,CO,1192,Baletas y Bailarinas,891,baletas-y-bailarinas,False,3,True,Category Tree - CO / Moda / Calzados / Baletas y Bailarinas
+1192,RETAIL,CO,1193,Bikinis,1187,bikinis,False,3,True,Category Tree - CO / Moda / Trajes de baño / Bikinis
+1195,RETAIL,CO,1196,Bodies,893,bodies,False,3,True,Category Tree - CO / Moda / Ropa / Bodies
+1196,RETAIL,CO,1197,Enterizos,1187,enterizos,False,3,True,Category Tree - CO / Moda / Trajes de baño / Enterizos
+1197,RETAIL,CO,1198,Pareos y salidas de baño,1187,pareos-y-salidas-de-baño,False,3,True,Category Tree - CO / Moda / Trajes de baño / Pareos y salidas de baño
+1198,RETAIL,CO,1199,Rashguards,1187,rashguards,False,3,True,Category Tree - CO / Moda / Trajes de baño / Rashguards
+1199,RETAIL,CO,1200,Trajes de baño masculinos,1187,trajes-de-baño-masculinos,False,3,True,Category Tree - CO / Moda / Trajes de baño / Trajes de baño masculinos
+1200,RETAIL,CO,1201,Camisetas Deportivas,1185,camisetas-deportivas,False,3,True,Category Tree - CO / Moda / Ropa deportiva / Camisetas Deportivas
+1201,RETAIL,CO,1202,Enterizos y conjuntos deportivos,1185,enterizos-y-conjuntos-deportivos,False,3,True,Category Tree - CO / Moda / Ropa deportiva / Enterizos y conjuntos deportivos
+1202,RETAIL,CO,1203,Licras y Pantalones deportivos,1185,licras-y-pantalones-deportivos,False,3,True,Category Tree - CO / Moda / Ropa deportiva / Licras y Pantalones deportivos
+1203,RETAIL,CO,1204,Pantalonetas y Shorts deportivos,1185,pantalonetas-y-shorts-deportivos,False,3,True,Category Tree - CO / Moda / Ropa deportiva / Pantalonetas y Shorts deportivos
+1204,RETAIL,CO,1205,Pantorrilleras y mangas,1185,pantorrilleras-y-mangas,False,3,True,Category Tree - CO / Moda / Ropa deportiva / Pantorrilleras y mangas
+1205,RETAIL,CO,1206,Chamarras Deportivas y Rompe vientos,1185,chamarras-deportivas-y-rompe-vientos,False,3,True,Category Tree - CO / Moda / Ropa deportiva / Chamarras Deportivas y Rompe vientos
+1206,RETAIL,CO,1207,Crop tops,893,crop-tops,False,3,True,Category Tree - CO / Moda / Ropa / Crop tops
+1207,RETAIL,CO,1208,Faldas,893,faldas,False,3,True,Category Tree - CO / Moda / Ropa / Faldas
+1208,RETAIL,CO,1209,Hoodies y Buzos,893,hoodies-y-buzos,False,3,True,Category Tree - CO / Moda / Ropa / Hoodies y Buzos
+1209,RETAIL,CO,1210,Sacos y Suéteres,893,sacos-y-suéteres,False,3,True,Category Tree - CO / Moda / Ropa / Sacos y Suéteres
+1210,RETAIL,CO,1211,Dijes y Charms,816,dijes-y-charms,False,3,True,Category Tree - CO / Moda / Joyería / Dijes y Charms
+1211,RETAIL,CO,1212,Piercings,816,piercings,False,3,True,Category Tree - CO / Moda / Joyería / Piercings
+1212,RETAIL,CO,1213,Zuecos y Alpargatas,891,zuecos-y-alpargatas,False,3,True,Category Tree - CO / Moda / Calzados / Zuecos y Alpargatas
+1213,RETAIL,CO,1214,Riñoneras y Canguros,838,riñoneras-y-canguros,False,3,True,Category Tree - CO / Moda / Bolsos y maletas / Riñoneras y Canguros
+1214,RETAIL,CO,1215,Seguridad y protección de Maletas,838,seguridad-y-protección-de-maletas,False,3,True,Category Tree - CO / Moda / Bolsos y maletas / Seguridad y protección de Maletas
+1215,RETAIL,CO,1216,Estuches y Accesorios para lentes,888,estuches-y-accesorios-para-lentes,False,3,True,Category Tree - CO / Moda / Accesorios de moda / Estuches y Accesorios para lentes
+1216,RETAIL,CO,1217,"Pines, mancornas y broches",888,pines-mancornas-y-broches,False,3,True,"Category Tree - CO / Moda / Accesorios de moda / Pines, mancornas y broches"
+1217,RETAIL,CO,1218,"Sombrillas, Paraguas e Impermeables",888,sombrillas-paraguas-e-impermeables,False,3,True,"Category Tree - CO / Moda / Accesorios de moda / Sombrillas, Paraguas e Impermeables"
+1218,RETAIL,CO,1219,"Tirantes, corbatas y corbatines",888,tirantes-corbatas-y-corbatines,False,3,True,"Category Tree - CO / Moda / Accesorios de moda / Tirantes, corbatas y corbatines"
+1219,RETAIL,CO,1220,Álbumes y laminas,535,álbumes-y-laminas,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Periódicos y Revistas / Álbumes y laminas"
+1221,RETAIL,CO,1222,Calcetines deportivos,1185,calcetines-deportivos,False,3,True,Category Tree - CO / Moda / Ropa deportiva / Calcetines deportivos
+1222,RETAIL,CO,1223,Llaveros,888,llaveros,False,3,True,Category Tree - CO / Moda / Accesorios de moda / Llaveros
+1223,RETAIL,CO,1224,Tops,844,tops,False,3,True,Category Tree - CO / Moda / Ropa interior / Tops
+1224,RETAIL,CO,1225,Blusas,893,blusas,False,3,True,Category Tree - CO / Moda / Ropa / Blusas
+1225,RETAIL,CO,1226,Flores para tu Hogar,806,flores-para-tu-hogar,False,3,True,Category Tree - CO / Flores y Plantas / Arreglos y Flores / Flores para tu Hogar
+1226,RETAIL,CO,1227,Plantas para tu hogar,808,plantas-para-tu-hogar,False,3,True,Category Tree - CO / Flores y Plantas / Plantas / Plantas para tu hogar
+1227,RETAIL,CO,1228,Cajas Sorpresas,806,cajas-sorpresas,False,3,True,Category Tree - CO / Flores y Plantas / Arreglos y Flores / Cajas Sorpresas
+1229,RETAIL,CO,1230,"Follaje, Cintas y mallas",1228,follaje-cintas-y-mallas,False,3,True,"Category Tree - CO / Decoración y hogar / Decoración Navideña / Follaje, Cintas y mallas"
+1230,RETAIL,CO,1231,Adornos y figuras navideñas,1228,adornos-y-figuras-navideñas,False,3,True,Category Tree - CO / Decoración y hogar / Decoración Navideña / Adornos y figuras navideñas
+1231,RETAIL,CO,1232,Luces navideñas,1228,luces-navideñas,False,3,True,Category Tree - CO / Decoración y hogar / Decoración Navideña / Luces navideñas
+1232,RETAIL,CO,1233,Decoración para la mesa,1228,decoración-para-la-mesa,False,3,True,Category Tree - CO / Decoración y hogar / Decoración Navideña / Decoración para la mesa
+1233,RETAIL,CO,1234,"Estrellas, colgantes y bolas",1228,estrellas-colgantes-y-bolas,False,3,True,"Category Tree - CO / Decoración y hogar / Decoración Navideña / Estrellas, colgantes y bolas"
+1234,RETAIL,CO,1235,Árboles de Navidad,1228,árboles-de-navidad,False,3,True,Category Tree - CO / Decoración y hogar / Decoración Navideña / Árboles de Navidad
+1235,RETAIL,CO,1236,Organizadores de Viaje,562,organizadores-de-viaje,False,3,True,Category Tree - CO / Decoración y hogar / Organizadores / Organizadores de Viaje
+1238,RETAIL,CO,1239,Otros Linea Blanca,1237,otros-linea-blanca,False,3,True,Category Tree - CO / Decoración y hogar / Linea Blanca / Otros Linea Blanca
+1240,RETAIL,CO,1241,Otros Climatización,1239,otros-climatización,False,3,True,Category Tree - CO / Decoración y hogar / Climatización / Otros Climatización
+1241,RETAIL,CO,1242,Deshumidificadores,1239,deshumidificadores,False,3,True,Category Tree - CO / Decoración y hogar / Climatización / Deshumidificadores
+1242,RETAIL,CO,1243,Ventiladores,1239,ventiladores,False,3,True,Category Tree - CO / Decoración y hogar / Climatización / Ventiladores
+1243,RETAIL,CO,1244,Calefactores,1239,calefactores,False,3,True,Category Tree - CO / Decoración y hogar / Climatización / Calefactores
+1244,RETAIL,CO,1245,Aire acondicionado,1239,aire-acondicionado,False,3,True,Category Tree - CO / Decoración y hogar / Climatización / Aire acondicionado
+1245,RETAIL,CO,1246,Exprimidores y Extractores,559,exprimidores-y-extractores,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Exprimidores y Extractores
+1246,RETAIL,CO,1247,Arroceras y Multicook,559,arroceras-y-multicook,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Arroceras y Multicook
+1247,RETAIL,CO,1248,Procesadoras de alimentos,559,procesadoras-de-alimentos,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Procesadoras de alimentos
+1248,RETAIL,CO,1249,Cafeteras y Teteras,559,cafeteras-y-teteras,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Cafeteras y Teteras
+1249,RETAIL,CO,1250,Planchas de Ropa,559,planchas-de-ropa,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Planchas de Ropa
+1250,RETAIL,CO,1251,Planchas asadoras,559,planchas-asadoras,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Planchas asadoras
+1251,RETAIL,CO,1252,"Waffleras, tostadoras y sanducheras",559,waffleras-tostadoras-y-sanducheras,False,3,True,"Category Tree - CO / Decoración y hogar / Electromenor / Waffleras, tostadoras y sanducheras"
+1252,RETAIL,CO,1253,Freídoras de Aire,559,freídoras-de-aire,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Freídoras de Aire
+1253,RETAIL,CO,1254,Fondue y Fuente chocolatera,559,fondue-y-fuente-chocolatera,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Fondue y Fuente chocolatera
+1254,RETAIL,CO,1255,Microondas,559,microondas,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Microondas
+1255,RETAIL,CO,1256,Licuadoras y Batidoras,559,licuadoras-y-batidoras,False,3,True,Category Tree - CO / Decoración y hogar / Electromenor / Licuadoras y Batidoras
+1257,RETAIL,CO,1258,Duchas,554,duchas,False,3,True,Category Tree - CO / Decoración y hogar / Baños / Duchas
+1259,RETAIL,CO,1260,Termos y Tomatodos,556,termos-y-tomatodos,False,3,True,Category Tree - CO / Decoración y hogar / Cocina / Termos y Tomatodos
+1261,RETAIL,CO,1262,Escritorios,561,escritorios,False,3,True,Category Tree - CO / Decoración y hogar / Muebles / Escritorios
+1262,RETAIL,CO,1263,Lámparas,557,lámparas,False,3,True,Category Tree - CO / Decoración y hogar / Decoración del hogar / Lámparas
+1263,RETAIL,CO,1264,"Bolígrafos, plumas y micropuntas",602,bolígrafos-plumas-y-micropuntas,False,3,True,"Category Tree - CO / Papelería y oficina / Útiles escolares / Bolígrafos, plumas y micropuntas"
+1265,RETAIL,CO,1266,Calculadoras,602,calculadoras,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Calculadoras
+1266,RETAIL,CO,1267,Cartucheras y estuches,602,cartucheras-y-estuches,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Cartucheras y estuches
+1267,RETAIL,CO,1268,Colores y Crayolas,602,colores-y-crayolas,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Colores y Crayolas
+1271,RETAIL,CO,1272,Correctores y Borradores,602,correctores-y-borradores,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Correctores y Borradores
+1272,RETAIL,CO,1273,Herramientas de Geometría,602,herramientas-de-geometría,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Herramientas de Geometría
+1273,RETAIL,CO,1274,Lápices y portaminas,602,lápices-y-portaminas,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Lápices y portaminas
+1277,RETAIL,CO,1278,Marcadores y resaltadores,602,marcadores-y-resaltadores,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Marcadores y resaltadores
+1278,RETAIL,CO,1279,Sobres,942,sobres,False,3,True,Category Tree - CO / Papelería y oficina / Papelería / Sobres
+1279,RETAIL,CO,1280,Eva Foam,942,eva-foam,False,3,True,Category Tree - CO / Papelería y oficina / Papelería / Eva Foam
+1280,RETAIL,CO,1281,Calendarios y planificadores,597,calendarios-y-planificadores,False,3,True,Category Tree - CO / Papelería y oficina / Cuadernos y Apuntes / Calendarios y planificadores
+1281,RETAIL,CO,1282,Implementos de corte,602,implementos-de-corte,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Implementos de corte
+1282,RETAIL,CO,1283,Pegantes y Cintas,602,pegantes-y-cintas,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Pegantes y Cintas
+1283,RETAIL,CO,1284,Pizarras y Tableros,602,pizarras-y-tableros,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Pizarras y Tableros
+1286,RETAIL,CO,1285,Sacapuntas y tajadores,602,sacapuntas-y-tajadores,False,3,True,Category Tree - CO / Papelería y oficina / Útiles escolares / Sacapuntas y tajadores
+1289,RETAIL,CO,1304,Bicicletas,1287,bicicletas,False,3,True,Category Tree - CO / Deportes y fitness / Ciclismo / Bicicletas
+1303,RETAIL,CO,1305,Accesorios para la Bicicleta,1287,accesorios-para-la-bicicleta,False,3,True,Category Tree - CO / Deportes y fitness / Ciclismo / Accesorios para la Bicicleta
+1304,RETAIL,CO,1306,Repuestos para la bicicleta,1287,repuestos-para-la-bicicleta,False,3,True,Category Tree - CO / Deportes y fitness / Ciclismo / Repuestos para la bicicleta
+1305,RETAIL,CO,1307,Trajes de Ciclismo,1287,trajes-de-ciclismo,False,3,True,Category Tree - CO / Deportes y fitness / Ciclismo / Trajes de Ciclismo
+1306,RETAIL,CO,1308,Otros Ciclismo,1287,otros-ciclismo,False,3,True,Category Tree - CO / Deportes y fitness / Ciclismo / Otros Ciclismo
+1307,RETAIL,CO,1309,Cascos de ciclismo,1287,cascos-de-ciclismo,False,3,True,Category Tree - CO / Deportes y fitness / Ciclismo / Cascos de ciclismo
+1308,RETAIL,CO,1310,Zapatillas de ciclismo,1287,zapatillas-de-ciclismo,False,3,True,Category Tree - CO / Deportes y fitness / Ciclismo / Zapatillas de ciclismo
+1309,RETAIL,CO,1311,Rodillos y Simuladores,1287,rodillos-y-simuladores,False,3,True,Category Tree - CO / Deportes y fitness / Ciclismo / Rodillos y Simuladores
+1310,RETAIL,CO,1299,Guantes y Protección de boxeo,1293,guantes-y-protección-de-boxeo,False,3,True,Category Tree - CO / Deportes y fitness / Boxeo y artes marciales / Guantes y Protección de boxeo
+1311,RETAIL,CO,1300,Sacos y soportes de boxeo,1293,sacos-y-soportes-de-boxeo,False,3,True,Category Tree - CO / Deportes y fitness / Boxeo y artes marciales / Sacos y soportes de boxeo
+1312,RETAIL,CO,1301,Otros Boxeo y artes marciales,1293,otros-boxeo-y-artes-marciales,False,3,True,Category Tree - CO / Deportes y fitness / Boxeo y artes marciales / Otros Boxeo y artes marciales
+1313,RETAIL,CO,1312,Obtáculos y Escaleras de agilidad,1294,obtáculos-y-escaleras-de-agilidad,False,3,True,Category Tree - CO / Deportes y fitness / Equipo de entrenamiento / Obtáculos y Escaleras de agilidad
+1314,RETAIL,CO,1313,Canchas y banderines,1294,canchas-y-banderines,False,3,True,Category Tree - CO / Deportes y fitness / Equipo de entrenamiento / Canchas y banderines
+1315,RETAIL,CO,1314,Silbatos y cronómetros,1294,silbatos-y-cronómetros,False,3,True,Category Tree - CO / Deportes y fitness / Equipo de entrenamiento / Silbatos y cronómetros
+1316,RETAIL,CO,1315,Otros Equipo de entrenamiento,1294,otros-equipo-de-entrenamiento,False,3,True,Category Tree - CO / Deportes y fitness / Equipo de entrenamiento / Otros Equipo de entrenamiento
+1317,RETAIL,CO,1316,Balones de Fútbol,1295,balones-de-fútbol,False,3,True,Category Tree - CO / Deportes y fitness / Fútbol / Balones de Fútbol
+1318,RETAIL,CO,1317,Guantes de Fútbol,1295,guantes-de-fútbol,False,3,True,Category Tree - CO / Deportes y fitness / Fútbol / Guantes de Fútbol
+1319,RETAIL,CO,1318,Canilleras,1295,canilleras,False,3,True,Category Tree - CO / Deportes y fitness / Fútbol / Canilleras
+1320,RETAIL,CO,1319,Zapatillas y Guayos,1295,zapatillas-y-guayos,False,3,True,Category Tree - CO / Deportes y fitness / Fútbol / Zapatillas y Guayos
+1321,RETAIL,CO,1352,Otros Futbol,1295,otros-futbol,False,3,True,Category Tree - CO / Deportes y fitness / Fútbol / Otros Futbol
+1322,RETAIL,CO,1320,Plataformas vibratorias,1296,plataformas-vibratorias,False,3,True,Category Tree - CO / Deportes y fitness / Gimnasia Pasiva / Plataformas vibratorias
+1323,RETAIL,CO,1321,Electrodos,1296,electrodos,False,3,True,Category Tree - CO / Deportes y fitness / Gimnasia Pasiva / Electrodos
+1324,RETAIL,CO,1322,Otros Gimnasia Pasiva,1296,otros-gimnasia-pasiva,False,3,True,Category Tree - CO / Deportes y fitness / Gimnasia Pasiva / Otros Gimnasia Pasiva
+1325,RETAIL,CO,1323,Barras y Discos,1297,barras-y-discos,False,3,True,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates / Barras y Discos"
+1326,RETAIL,CO,1324,Balones medicinales,1297,balones-medicinales,False,3,True,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates / Balones medicinales"
+1327,RETAIL,CO,1325,Colchonetas y mat,1297,colchonetas-y-mat,False,3,True,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates / Colchonetas y mat"
+1328,RETAIL,CO,1326,Equipos de resistencia y abdomen,1297,equipos-de-resistencia-y-abdomen,False,3,True,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates / Equipos de resistencia y abdomen"
+1329,RETAIL,CO,1327,Cuerdas y Lazos de salto,1297,cuerdas-y-lazos-de-salto,False,3,True,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates / Cuerdas y Lazos de salto"
+1330,RETAIL,CO,1328,Básculas Fitness,1297,básculas-fitness,False,3,True,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates / Básculas Fitness"
+1331,RETAIL,CO,1329,Guantes y protección para Gimnasio,1297,guantes-y-protección-para-gimnasio,False,3,True,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates / Guantes y protección para Gimnasio"
+1332,RETAIL,CO,1330,"Otros Gimnasio, Yoga y Pilates",1297,otros-gimnasio-yoga-y-pilates,False,3,True,"Category Tree - CO / Deportes y fitness / Gimnasio, Yoga y Pilates / Otros Gimnasio, Yoga y Pilates"
+1333,RETAIL,CO,1333,Gafas de Natación,1298,gafas-de-natación,False,3,True,Category Tree - CO / Deportes y fitness / Natación y Náuticos / Gafas de Natación
+1334,RETAIL,CO,1334,Gorros de Natación,1298,gorros-de-natación,False,3,True,Category Tree - CO / Deportes y fitness / Natación y Náuticos / Gorros de Natación
+1335,RETAIL,CO,1335,Herramientas de natación,1298,herramientas-de-natación,False,3,True,Category Tree - CO / Deportes y fitness / Natación y Náuticos / Herramientas de natación
+1336,RETAIL,CO,1336,Trajes náuticos,1298,trajes-náuticos,False,3,True,Category Tree - CO / Deportes y fitness / Natación y Náuticos / Trajes náuticos
+1337,RETAIL,CO,1337,Otros Natación,1298,otros-natación,False,3,True,Category Tree - CO / Deportes y fitness / Natación y Náuticos / Otros Natación
+1338,RETAIL,CO,1340,Patines y Patinetas,1299,patines-y-patinetas,False,3,True,Category Tree - CO / Deportes y fitness / Patinaje / Patines y Patinetas
+1339,RETAIL,CO,1341,Uniformes de Patinaje,1299,uniformes-de-patinaje,False,3,True,Category Tree - CO / Deportes y fitness / Patinaje / Uniformes de Patinaje
+1340,RETAIL,CO,1342,Protección Patinaje,1299,protección-patinaje,False,3,True,Category Tree - CO / Deportes y fitness / Patinaje / Protección Patinaje
+1341,RETAIL,CO,1343,Otros Patinaje,1299,otros-patinaje,False,3,True,Category Tree - CO / Deportes y fitness / Patinaje / Otros Patinaje
+1342,RETAIL,CO,1344,Raquetas de tenis,1300,raquetas-de-tenis,False,3,True,Category Tree - CO / Deportes y fitness / Tenis de campo / Raquetas de tenis
+1343,RETAIL,CO,1345,Pelotas de tenis,1300,pelotas-de-tenis,False,3,True,Category Tree - CO / Deportes y fitness / Tenis de campo / Pelotas de tenis
+1344,RETAIL,CO,1346,Accesorios para Raquetas de Tenis,1300,accesorios-para-raquetas-de-tenis,False,3,True,Category Tree - CO / Deportes y fitness / Tenis de campo / Accesorios para Raquetas de Tenis
+1345,RETAIL,CO,1347,Porta Raquetas,1300,porta-raquetas,False,3,True,Category Tree - CO / Deportes y fitness / Tenis de campo / Porta Raquetas
+1346,RETAIL,CO,1348,Otros Tenis de campo,1300,otros-tenis-de-campo,False,3,True,Category Tree - CO / Deportes y fitness / Tenis de campo / Otros Tenis de campo
+1347,RETAIL,CO,1349,Balones de Voleibol,1301,balones-de-voleibol,False,3,True,Category Tree - CO / Deportes y fitness / Voleibol / Balones de Voleibol
+1348,RETAIL,CO,1350,Protección Voleibol,1301,protección-voleibol,False,3,True,Category Tree - CO / Deportes y fitness / Voleibol / Protección Voleibol
+1349,RETAIL,CO,1351,Otros Voleibol,1301,otros-voleibol,False,3,True,Category Tree - CO / Deportes y fitness / Voleibol / Otros Voleibol
+1350,RETAIL,CO,1302,Menaje para camping,523,menaje-para-camping,False,3,True,Category Tree - CO / Deportes y fitness / Camping Y Outdoor / Menaje para camping
+1351,RETAIL,CO,1303,Seguridad en el camping,523,seguridad-en-el-camping,False,3,True,Category Tree - CO / Deportes y fitness / Camping Y Outdoor / Seguridad en el camping
+1352,RETAIL,CO,1331,Entrenamiento cardiovascular,525,entrenamiento-cardiovascular,False,3,True,Category Tree - CO / Deportes y fitness / Máquinas Para Hacer Ejercicio / Entrenamiento cardiovascular
+1353,RETAIL,CO,1332,Bancos y soportes,525,bancos-y-soportes,False,3,True,Category Tree - CO / Deportes y fitness / Máquinas Para Hacer Ejercicio / Bancos y soportes
+1354,RETAIL,CO,1338,Golf,522,golf,False,3,True,Category Tree - CO / Deportes y fitness / Otros Deportes / Golf
+1355,RETAIL,CO,1339,Pesca Deportiva,522,pesca-deportiva,False,3,True,Category Tree - CO / Deportes y fitness / Otros Deportes / Pesca Deportiva
+1366,RETAIL,CO,1353,Baberos y Delantales,461,baberos-y-delantales,False,3,True,Category Tree - CO / Bebés y niños / Accesorios para alimentación / Baberos y Delantales
+1367,RETAIL,CO,1358,Vajillas de Bebe,461,vajillas-de-bebe,False,3,True,Category Tree - CO / Bebés y niños / Accesorios para alimentación / Vajillas de Bebe
+1368,RETAIL,CO,1357,Rodilleras de Gateo y Cascos,464,rodilleras-de-gateo-y-cascos,False,3,True,Category Tree - CO / Bebés y niños / Seguridad infantil / Rodilleras de Gateo y Cascos
+1369,RETAIL,CO,1354,Cunas y Corrales,1256,cunas-y-corrales,False,3,True,Category Tree - CO / Bebés y niños / Dormitorio del Bebé / Cunas y Corrales
+1370,RETAIL,CO,1355,Móviles,1256,móviles,False,3,True,Category Tree - CO / Bebés y niños / Dormitorio del Bebé / Móviles
+1371,RETAIL,CO,1356,Otros Dormitorio del Bebé,1256,otros-dormitorio-del-bebé,False,3,True,Category Tree - CO / Bebés y niños / Dormitorio del Bebé / Otros Dormitorio del Bebé
+1372,RETAIL,CO,1371,Juegos de Piscina y Playa,1360,juegos-de-piscina-y-playa,False,3,True,Category Tree - CO / Juguetería / Juegos al aire libre / Juegos de Piscina y Playa
+1373,RETAIL,CO,1376,Pistolas de Juguete y lanzadores,1360,pistolas-de-juguete-y-lanzadores,False,3,True,Category Tree - CO / Juguetería / Juegos al aire libre / Pistolas de Juguete y lanzadores
+1374,RETAIL,CO,1379,Trampolines y Camas Elásticas,1360,trampolines-y-camas-elásticas,False,3,True,Category Tree - CO / Juguetería / Juegos al aire libre / Trampolines y Camas Elásticas
+1375,RETAIL,CO,1366,Bloques y figuras de armar,1361,bloques-y-figuras-de-armar,False,3,True,Category Tree - CO / Juguetería / Juegos de Mesa / Bloques y figuras de armar
+1376,RETAIL,CO,1369,Juegos de estrategia,1361,juegos-de-estrategia,False,3,True,Category Tree - CO / Juguetería / Juegos de Mesa / Juegos de estrategia
+1377,RETAIL,CO,1370,Juegos de familia,1361,juegos-de-familia,False,3,True,Category Tree - CO / Juguetería / Juegos de Mesa / Juegos de familia
+1378,RETAIL,CO,1372,Otros Musicales y de rol,1362,otros-musicales-y-de-rol,False,3,True,Category Tree - CO / Juguetería / Juegos Musicales y de rol / Otros Musicales y de rol
+1379,RETAIL,CO,1377,Roles y Profesiones,1362,roles-y-profesiones,False,3,True,Category Tree - CO / Juguetería / Juegos Musicales y de rol / Roles y Profesiones
+1380,RETAIL,CO,1368,Funkos,1364,funkos,False,3,True,"Category Tree - CO / Juguetería / Muñecas, Muñecos y Peluches / Funkos"
+1381,RETAIL,CO,1374,Peluches,1364,peluches,False,3,True,"Category Tree - CO / Juguetería / Muñecas, Muñecos y Peluches / Peluches"
+1382,RETAIL,CO,1378,Títeres,1364,títeres,False,3,True,"Category Tree - CO / Juguetería / Muñecas, Muñecos y Peluches / Títeres"
+1383,RETAIL,CO,1367,Carros y Motos,1365,carros-y-motos,False,3,True,Category Tree - CO / Juguetería / Vehículos / Carros y Motos
+1384,RETAIL,CO,1373,Otros Vehículos,1365,otros-vehículos,False,3,True,Category Tree - CO / Juguetería / Vehículos / Otros Vehículos
+1385,RETAIL,CO,1375,Pistas,1365,pistas,False,3,True,Category Tree - CO / Juguetería / Vehículos / Pistas
+1386,RETAIL,CO,1380,Vehículos montables,1365,vehículos-montables,False,3,True,Category Tree - CO / Juguetería / Vehículos / Vehículos montables
+1387,RETAIL,CO,1442,Set de Ropa - Conjuntos,1357,set-de-ropa-conjuntos,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Set de Ropa - Conjuntos
+1388,RETAIL,CO,1443,Sacos y chamarras,1357,sacos-y-chamarras,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Sacos y chamarras
+1389,RETAIL,CO,1444,Bodies - Leotardos,1357,bodies-leotardos,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Bodies - Leotardos
+1390,RETAIL,CO,1445,Vestidos y Jardineras,1357,vestidos-y-jardineras,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Vestidos y Jardineras
+1391,RETAIL,CO,1446,Ropa Interior,1357,ropa-interior,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Ropa Interior
+1392,RETAIL,CO,1447,Calzado infantil,1357,calzado-infantil,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Calzado infantil
+1393,RETAIL,CO,1448,"Gorros, gorras y sombreros",1357,gorros-gorras-y-sombreros,False,3,True,"Category Tree - CO / Bebés y niños / Ropa bebés y niños / Gorros, gorras y sombreros"
+1394,RETAIL,CO,1449,Medias y calcetines,1357,medias-y-calcetines,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Medias y calcetines
+1395,RETAIL,CO,1450,Camisas y camisetas,1357,camisas-y-camisetas,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Camisas y camisetas
+1396,RETAIL,CO,1451,Pantalones y jeans,1357,pantalones-y-jeans,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Pantalones y jeans
+1397,RETAIL,CO,1452,Pantalonetas y shorts,1357,pantalonetas-y-shorts,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Pantalonetas y shorts
+1398,RETAIL,CO,1453,Pijamas,1357,pijamas,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Pijamas
+1399,RETAIL,CO,1454,Vestidos de baño,1357,vestidos-de-baño,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Vestidos de baño
+1406,RETAIL,CO,1387,Amarres y abrazaderas,574,amarres-y-abrazaderas,False,3,True,Category Tree - CO / Ferretería y jardín / Ferretería / Amarres y abrazaderas
+1407,RETAIL,CO,1388,Accesorios de pintura,574,accesorios-de-pintura,False,3,True,Category Tree - CO / Ferretería y jardín / Ferretería / Accesorios de pintura
+1408,RETAIL,CO,1389,Interruptores y tomacorriente,575,interruptores-y-tomacorriente,False,3,True,Category Tree - CO / Ferretería y jardín / Iluminación y eléctricos / Interruptores y tomacorriente
+1412,RETAIL,CO,1498,Otros Ropa bebés y niños,1357,otros-ropa-bebés-y-niños,False,3,True,Category Tree - CO / Bebés y niños / Ropa bebés y niños / Otros Ropa bebés y niños
+1417,RETAIL,CO,1425,Autoayuda y superación,1414,autoayuda-y-superación,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Bienestar y Ocio / Autoayuda y superación"
+1418,RETAIL,CO,1426,Deportes,1414,deportes,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Bienestar y Ocio / Deportes"
+1419,RETAIL,CO,1427,Gastronomía y Nutrición,1414,gastronomía-y-nutrición,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Bienestar y Ocio / Gastronomía y Nutrición"
+1420,RETAIL,CO,1428,Otros Bienestar y Ocio,1414,otros-bienestar-y-ocio,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Bienestar y Ocio / Otros Bienestar y Ocio"
+1421,RETAIL,CO,1429,Cómics,1415,cómics,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Cómics y Manga / Cómics"
+1422,RETAIL,CO,1430,Manga,1415,manga,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Cómics y Manga / Manga"
+1423,RETAIL,CO,1431,Otros Cómics y Manga,1415,otros-cómics-y-manga,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Cómics y Manga / Otros Cómics y Manga"
+1424,RETAIL,CO,1432,Biografías y autobiografías,533,biografías-y-autobiografías,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Literatura / Biografías y autobiografías"
+1425,RETAIL,CO,1433,Poesía y Teatro,533,poesía-y-teatro,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Literatura / Poesía y Teatro"
+1426,RETAIL,CO,1434,Trilogías y Sagas,533,trilogías-y-sagas,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Literatura / Trilogías y Sagas"
+1427,RETAIL,CO,1435,Derecho y Jurisprudencia,1416,derecho-y-jurisprudencia,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Profesionales y Especializados / Derecho y Jurisprudencia"
+1428,RETAIL,CO,1436,Otros Profesionales,1416,otros-profesionales,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Profesionales y Especializados / Otros Profesionales"
+1429,RETAIL,CO,1437,Salud y Medicina,1416,salud-y-medicina,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Profesionales y Especializados / Salud y Medicina"
+1430,RETAIL,CO,1438,Diccionarios y Enciclopedias,1413,diccionarios-y-enciclopedias,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Textos Escolares / Diccionarios y Enciclopedias"
+1431,RETAIL,CO,1439,Idiomas,1413,idiomas,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Textos Escolares / Idiomas"
+1432,RETAIL,CO,1440,Otros Textos Escolares,1413,otros-textos-escolares,False,3,True,"Category Tree - CO / Libros, Cómics y Revistas / Textos Escolares / Otros Textos Escolares"
+1438,RETAIL,CO,1503,Sombra De Ojos,1434,sombra-de-ojos,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Ojos / Sombra De Ojos
+1439,RETAIL,CO,1504,Mascara De Pestañas,1434,mascara-de-pestañas,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Ojos / Mascara De Pestañas
+1440,RETAIL,CO,1505,Delineador Y Lápiz De Ojos,1434,delineador-y-lápiz-de-ojos,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Ojos / Delineador Y Lápiz De Ojos
+1441,RETAIL,CO,1506,Delineador Y Lápiz De Cejas,1434,delineador-y-lápiz-de-cejas,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Ojos / Delineador Y Lápiz De Cejas
+1442,RETAIL,CO,1507,Mascara De Cejas,1434,mascara-de-cejas,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Ojos / Mascara De Cejas
+1443,RETAIL,CO,1508,Base,1435,base,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Rostro / Base
+1444,RETAIL,CO,1509,Polvo Compacto,1435,polvo-compacto,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Rostro / Polvo Compacto
+1445,RETAIL,CO,1510,Corrector,1435,corrector,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Rostro / Corrector
+1446,RETAIL,CO,1511,Blush,1435,blush,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Rostro / Blush
+1447,RETAIL,CO,1512,Iluminador,1435,iluminador,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Rostro / Iluminador
+1448,RETAIL,CO,1513,Fijador De Maquillaje,1435,fijador-de-maquillaje,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Rostro / Fijador De Maquillaje
+1449,RETAIL,CO,1514,"Esmaltes, Bases y Tratamientos De Uñas",1436,esmaltes-bases-y-tratamientos-de-uñas,False,3,True,"Category Tree - CO / Maquillaje / Maquillaje Para Uñas / Esmaltes, Bases y Tratamientos De Uñas"
+1450,RETAIL,CO,1515,Removedor de esmaltes,1436,removedor-de-esmaltes,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Uñas / Removedor de esmaltes
+1451,RETAIL,CO,1516,Labial,1437,labial,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Labios / Labial
+1452,RETAIL,CO,1517,Protectores labiales-balsamos,1437,protectores-labiales-balsamos,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Labios / Protectores labiales-balsamos
+1453,RETAIL,CO,1518,Delineador De Labios,1437,delineador-de-labios,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Labios / Delineador De Labios
+1454,RETAIL,CO,1520,Otros Maquillaje Para Ojos,1434,otros-maquillaje-para-ojos,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Ojos / Otros Maquillaje Para Ojos
+1455,RETAIL,CO,1521,Otros Maquillaje Para Rostro,1435,otros-maquillaje-para-rostro,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Rostro / Otros Maquillaje Para Rostro
+1456,RETAIL,CO,1522,Otros Maquillaje Para Uñas,1436,otros-maquillaje-para-uñas,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Uñas / Otros Maquillaje Para Uñas
+1457,RETAIL,CO,1523,Otros Maquillaje Para Labios,1437,otros-maquillaje-para-labios,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Labios / Otros Maquillaje Para Labios
+1470,RETAIL,CO,1532,Pouches,1463,pouches,False,3,True,Category Tree - CO / Cigarrillos / Pouches / Pouches
+1475,RETAIL,CO,1537,Planchas,255,planchas,False,3,True,Category Tree - CO / Cuidado personal / Electro belleza / Planchas
+1476,RETAIL,CO,1538,Rizadoras,255,rizadoras,False,3,True,Category Tree - CO / Cuidado personal / Electro belleza / Rizadoras
+1477,RETAIL,CO,1539,Secadores,255,secadores,False,3,True,Category Tree - CO / Cuidado personal / Electro belleza / Secadores
+1484,RETAIL,CO,1540,Primer,1435,primer,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Rostro / Primer
+1485,RETAIL,CO,1541,Bronzer,1435,bronzer,False,3,True,Category Tree - CO / Maquillaje / Maquillaje Para Rostro / Bronzer
+1490,RETAIL,CO,1545,Protectores solares corporales,1488,protectores-solares-corporales,False,3,True,Category Tree - CO / Cuidado personal / Cuidado corporal / Protectores solares corporales
+1491,RETAIL,CO,1546,Humectantes corporales,1488,humectantes-corporales,False,3,True,Category Tree - CO / Cuidado personal / Cuidado corporal / Humectantes corporales
+1492,RETAIL,CO,1547,Bronceadores,1488,bronceadores,False,3,True,Category Tree - CO / Cuidado personal / Cuidado corporal / Bronceadores
+1493,RETAIL,CO,1548,Repelentes,1488,repelentes,False,3,True,Category Tree - CO / Cuidado personal / Cuidado corporal / Repelentes
+1494,RETAIL,CO,1549,Otros cuidado corporal,1488,otros-cuidado-corporal,False,3,True,Category Tree - CO / Cuidado personal / Cuidado corporal / Otros cuidado corporal
+1495,RETAIL,CO,1551,Protectores solares faciales,1489,protectores-solares-faciales,False,3,True,Category Tree - CO / Cuidado personal / Cuidado facial / Protectores solares faciales
+1496,RETAIL,CO,1552,Humectantes faciales,1489,humectantes-faciales,False,3,True,Category Tree - CO / Cuidado personal / Cuidado facial / Humectantes faciales
+1497,RETAIL,CO,1553,Limpiadores faciales,1489,limpiadores-faciales,False,3,True,Category Tree - CO / Cuidado personal / Cuidado facial / Limpiadores faciales
+1498,RETAIL,CO,1554,Contorno de ojos,1489,contorno-de-ojos,False,3,True,Category Tree - CO / Cuidado personal / Cuidado facial / Contorno de ojos
+1499,RETAIL,CO,1555,Mascarillas,1489,mascarillas,False,3,True,Category Tree - CO / Cuidado personal / Cuidado facial / Mascarillas
+1500,RETAIL,CO,1556,Brumas y tónicos,1489,brumas-y-tónicos,False,3,True,Category Tree - CO / Cuidado personal / Cuidado facial / Brumas y tónicos
