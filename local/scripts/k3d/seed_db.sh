@@ -113,10 +113,10 @@ INSERT INTO users.role_permissions (role_id, permission_id)
 VALUES ('8a1df9e1-d2cc-4d08-81dd-d805a56e03d3', '311364d8-edce-4dda-a385-3bfc4143a50b');
 "
 
-# 6. Insert taxonomies (dev placeholder data, see local/seed-data/taxonomies_dev_seed.sql)
+# 6. Insert taxonomies (filtered production category set, see local/seed-data/taxonomy_production_seed.sql)
 echo "6. Inserting taxonomies..."
 kubectl --context "${K3D_CONTEXT}" -n "${K3D_NAMESPACE}" exec -i "deploy/${K3D_DEPLOYMENT}" -- \
-  psql -U "${LOCAL_DB_USER}" -d "${LOCAL_DB}" < "${PROJECT_ROOT}/local/seed-data/taxonomies_dev_seed.sql"
+  psql -U "${LOCAL_DB_USER}" -d "${LOCAL_DB}" < "${PROJECT_ROOT}/local/seed-data/taxonomy_production_seed.sql"
 
 echo ""
 echo "Seed data inserted successfully!"
@@ -131,4 +131,4 @@ echo "  - STORE_BUYER"
 echo ""
 echo "Permissions created: 9 total"
 echo ""
-echo "Taxonomy categories created: 1219 (dev placeholder data)"
+echo "Taxonomy categories created: 1099 (filtered production category set)"
